@@ -10,5 +10,4 @@ jobs:
     name: A job to say hello
     steps:
       - name: Hello world action step
-        uses: GruzinskiiArtem/githubactions@v5
-          env:
+        uses: GruzinskiiArtem/githubactions@v6
