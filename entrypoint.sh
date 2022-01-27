@@ -20,6 +20,11 @@ composer create-project --repository=https://repo.magento.com/ magento/project-c
 echo "Run installation"
 COMPOSER_MEMORY_LIMIT=-1 composer install --prefer-dist --no-interaction --no-progress --no-suggest
 
+echo "Determine which phpunit.xml file to use"
+if [[ -z "$INPUT_PHPUNIT_FILE" || ! -f "$INPUT_PHPUNIT_FILE" ]] ; then
+    INPUT_PHPUNIT_FILE=/tools/phpunit/phpunit.xml
+fi
+
 echo "Prepare for unit tests"
 echo $MAGENTO_ROOT
 cd $MAGENTO_ROOT
