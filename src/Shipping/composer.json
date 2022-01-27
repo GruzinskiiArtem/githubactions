@@ -1,0 +1,17 @@
+{
+  "name": "accord/am2-shipping",
+  "license": "Commercial",
+  "description": "Accord Magento2 Shipping",
+  "type": "magento2-module",
+  "require": {
+    "accord/am2-general":"*"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Accord\\Shipping\\": ""
+    }
+  }
+}

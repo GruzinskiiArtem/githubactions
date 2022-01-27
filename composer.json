@@ -1,0 +1,46 @@
+{
+  "name": "accord/magento2",
+  "description": "Accord Magento 2 Module",
+  "require": {
+    "php": "~7.4.0",
+    "magento/product-community-edition": "2.4.3-p1"
+  },
+  "require-dev": {
+    "jaschilz/php-coverage-badger": "2.0.0",
+    "friendsofphp/php-cs-fixer": "~2.16.0",
+    "lusitanian/oauth": "~0.8.10",
+    "magento/magento2-functional-testing-framework": "^2.7",
+    "pdepend/pdepend": "2.8.*",
+    "phpmd/phpmd": "2.9.*",
+    "phpunit/phpunit": "^9",
+    "sebastian/phpcpd": "~5.0.0",
+    "squizlabs/php_codesniffer": "^3.5.6",
+    "allure-framework/allure-phpunit": "~1.2.0",
+    "phpcompatibility/php-compatibility": "^9.3",
+    "slevomat/coding-standard": "6.4.*",
+    "magento/magento-coding-standard": "*",
+    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0"
+  },
+  "type": "magento2-module",
+  "license": "Commercial",
+  "autoload": {
+    "files": [
+      "src/Shipping/registration.php"
+    ],
+    "psr-4": {
+      "Accord\\Shipping\\": "src/Shipping"
+    }
+  },
+  "scripts": {
+    "test:static:php:phpcs": [
+      "php vendor/bin/phpcs ./src -s --standard=./tools/phpcs/ruleset.xml --extensions=html,php,phtml,css,less/css --ignore=vendor/* --basepath=./src"
+    ],
+    "test:static:php:phpmd": [
+      "php vendor/bin/phpmd ./src ansi ./tools/phpmd/ruleset.xml"
+    ],
+    "test:static:php": [
+      "@test:static:php:phpcs",
+      "@test:static:php:phpmd"
+    ]
+  }
+}

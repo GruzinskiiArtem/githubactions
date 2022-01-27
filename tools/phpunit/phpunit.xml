@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="http://schema.phpunit.de/6.2/phpunit.xsd"
+         colors="true"
+         columns="max"
+         beStrictAboutTestsThatDoNotTestAnything="false"
+         bootstrap="../../dev/tests/unit/framework/bootstrap.php"
+>
+    <testsuite name="MidWestShooting">
+        <directory suffix="Test.php">/*/*/Test/Unit</directory>
+    </testsuite>
+    <php>
+        <ini name="date.timezone" value="America/Los_Angeles"/>
+        <ini name="xdebug.max_nesting_level" value="250"/>
+        <ini name="memory_limit" value="2G"/>
+    </php>
+    <filter>
+        <whitelist>
+            <directory suffix=".php">../../app/code</directory>
+            <exclude>
+                <directory>../../app/code/*/*/Test</directory>
+                <directory>../../app/code/*/*/Controller</directory>
+                <directory>../../app/code/*/*/Setup</directory>
+                <directory suffix="registration.php">../../app/code/*/*/*</directory>
+            </exclude>
+        </whitelist>
+    </filter>
+    <logging>
+        <log type="coverage-html" target="./coverage" charset="UTF-8" yui="true" highlight="true"/>
+    </logging>
+</phpunit>
