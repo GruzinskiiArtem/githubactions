@@ -2,7 +2,7 @@
 
 MAGENTO_ROOT=/tmp/m2
 PROJECT_PATH=$GITHUB_WORKSPACE
-REPOSITORY_URL="https://repo-magento-mirror.fooman.co.nz/"
+REPOSITORY_URL="https://repo.magento.com/"
 INPUT_PHPUNIT_FILE=/tools/phpunit/phpunit.xml
 
 echo "Setup Magento credentials"
