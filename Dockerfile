@@ -30,9 +30,8 @@ RUN docker-php-ext-install zip
 RUN docker-php-ext-install intl
 RUN docker-php-ext-install sockets
 
+COPY tools /tools
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod 755 /entrypoint.sh
-
-COPY tools /tools
 
 ENTRYPOINT ["bash", "/entrypoint.sh"]

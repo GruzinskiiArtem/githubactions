@@ -14,13 +14,10 @@ composer create-project --repository=$REPOSITORY_URL magento/project-community-e
 echo "Run installation"
 COMPOSER_MEMORY_LIMIT=-1 composer install --prefer-dist --no-interaction --no-progress --no-suggest
 
-echo "Determine which phpunit.xml file to use"
-if [[ -z "$INPUT_PHPUNIT_FILE" || ! -f "$INPUT_PHPUNIT_FILE" ]] ; then
-    INPUT_PHPUNIT_FILE=/docker-files/phpunit.xml
-fi
-
 echo "Prepare for unit tests"
+echo $MAGENTO_ROOT
 cd $MAGENTO_ROOT
+ls
 sed $INPUT_PHPUNIT_FILE > dev/tests/unit/phpunit.xml
 
 echo "Run the unit tests"
