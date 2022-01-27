@@ -5,11 +5,17 @@ PROJECT_PATH=$GITHUB_WORKSPACE
 REPOSITORY_URL="https://repo.magento.com/"
 INPUT_PHPUNIT_FILE=/tools/phpunit/phpunit.xml
 
+test -z "${MAGENTO_VERSION}" && MAGENTO_VERSION=$INPUT_MAGENTO_VERSION
+
+test -z "${MAGENTO_VERSION}" && (echo "'magento_version' is not set" && exit 1)
+test -z "${MAGENTO_MARKETPLACE_USERNAME}" && (echo "'MAGENTO_MARKETPLACE_USERNAME' is not set" && exit 1)
+test -z "${MAGENTO_MARKETPLACE_PASSWORD}" && (echo "'MAGENTO_MARKETPLACE_PASSWORD' is not set" && exit 1)
+
 echo "Setup Magento credentials"
 composer global config http-basic.repo.magento.com $MAGENTO_MARKETPLACE_USERNAME $MAGENTO_MARKETPLACE_PASSWORD
 
 echo "Prepare composer installation"
-composer create-project --repository=$REPOSITORY_URL magento/project-community-edition:${MAGENTO_VERSION} $MAGENTO_ROOT --no-install --no-interaction --no-progress
+composer create-project --repository=https://repo.magento.com/ magento/project-community-edition:${MAGENTO_VERSION} $MAGENTO_ROOT --no-install --no-interaction --no-progress
 
 echo "Run installation"
 COMPOSER_MEMORY_LIMIT=-1 composer install --prefer-dist --no-interaction --no-progress --no-suggest
@@ -17,7 +23,7 @@ COMPOSER_MEMORY_LIMIT=-1 composer install --prefer-dist --no-interaction --no-pr
 echo "Prepare for unit tests"
 echo $MAGENTO_ROOT
 cd $MAGENTO_ROOT
-ls
+ls -la
 sed $INPUT_PHPUNIT_FILE > dev/tests/unit/phpunit.xml
 
 echo "Run the unit tests"
