@@ -1,0 +1,17 @@
+# action.yml
+name: 'Hello World'
+description: 'Greet someone and record the time'
+inputs:
+  php_version:
+    description: 'PHP version'
+    required: true
+    default: '7.4'
+  magento_version:
+    description: 'Magento 2 Open Source version number'
+    required: true
+    default: '2.4.3-p1'
+  magento_root:
+    default: '/tmp/m2'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
