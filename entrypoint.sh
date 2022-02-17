@@ -17,6 +17,8 @@ composer global config http-basic.repo.magento.com $MAGENTO_MARKETPLACE_USERNAME
 echo "Prepare composer installation"
 composer create-project --repository=https://repo.magento.com/ magento/project-community-edition:${MAGENTO_VERSION} $MAGENTO_ROOT --no-install --no-interaction --no-progress
 
+cd $MAGENTO_ROOT
+
 echo "Run installation"
 COMPOSER_MEMORY_LIMIT=-1 composer install --prefer-dist --no-interaction --no-progress --no-suggest
 
