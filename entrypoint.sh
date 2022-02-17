@@ -28,7 +28,7 @@ if [[ -z "$INPUT_PHPUNIT_FILE" || ! -f "$INPUT_PHPUNIT_FILE" ]] ; then
 fi
 
 mkdir -p $MAGENTO_ROOT/app/code/Accord
-mv /temp/ $MAGENTO_ROOT/app/code/Accord
+mv /temp/* $MAGENTO_ROOT/app/code/Accord
 
 echo "Accord"
 ls -la  $MAGENTO_ROOT/app/code/Accord
@@ -38,7 +38,7 @@ echo "Prepare for unit tests"
 echo $MAGENTO_ROOT
 cd $MAGENTO_ROOT
 ls -la
-sed $INPUT_PHPUNIT_FILE > dev/tests/unit/phpunit.xml
+sed $INPUT_PHPUNIT_FILE > $MAGENTO_ROOT/dev/tests/unit/phpunit.xml
 
 echo "Run the unit tests"
 cd $MAGENTO_ROOT/dev/tests/unit && ../../../vendor/bin/phpunit -c phpunit.xml
