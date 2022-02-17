@@ -34,7 +34,7 @@ echo "/tools/phpunit/phpunit.xml"
 cat $INPUT_PHPUNIT_FILE
 
 echo "Prepare for unit tests"
-sed $INPUT_PHPUNIT_FILE > $MAGENTO_ROOT/dev/tests/unit/phpunit.xml
+mv $INPUT_PHPUNIT_FILE $MAGENTO_ROOT/dev/tests/unit/
 
 echo "$MAGENTO_ROOT/dev/tests/unit/phpunit.xml"
 ls -la $MAGENTO_ROOT/dev/tests/unit
