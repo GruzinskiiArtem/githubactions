@@ -25,6 +25,10 @@ if [[ -z "$INPUT_PHPUNIT_FILE" || ! -f "$INPUT_PHPUNIT_FILE" ]] ; then
     INPUT_PHPUNIT_FILE=/tools/phpunit/phpunit.xml
 fi
 
+mv /temp/ $MAGENTO_ROOT/app/code/Test
+
+ls -la $MAGENTO_ROOT/app/code/Test
+
 echo "Prepare for unit tests"
 echo $MAGENTO_ROOT
 cd $MAGENTO_ROOT
