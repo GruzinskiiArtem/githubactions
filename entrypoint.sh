@@ -27,7 +27,7 @@ if [[ -z "$INPUT_PHPUNIT_FILE" || ! -f "$INPUT_PHPUNIT_FILE" ]] ; then
     INPUT_PHPUNIT_FILE=/tools/phpunit/phpunit.xml
 fi
 
-mkdir app/code/Accord
+mkdir /tmp/m2/app/code/Accord
 mv /temp/ $MAGENTO_ROOT/app/code/Accord
 
 ls -la $MAGENTO_ROOT/app/code/Accord
