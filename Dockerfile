@@ -34,6 +34,6 @@ COPY tools /tools
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod 755 /entrypoint.sh
 
-COPY src/Shipping /temp
+COPY src /temp
 
 ENTRYPOINT ["bash", "/entrypoint.sh"]
