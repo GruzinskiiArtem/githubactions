@@ -30,15 +30,15 @@ fi
 mkdir -p $MAGENTO_ROOT/app/code/Accord
 mv /temp/* $MAGENTO_ROOT/app/code/Accord
 
-echo "Accord"
-ls -la  $MAGENTO_ROOT/app/code/Accord
-
+echo "/tools/phpunit/phpunit.xml"
+cat $INPUT_PHPUNIT_FILE
 
 echo "Prepare for unit tests"
-echo $MAGENTO_ROOT
-cd $MAGENTO_ROOT
-ls -la
 sed $INPUT_PHPUNIT_FILE > $MAGENTO_ROOT/dev/tests/unit/phpunit.xml
+
+echo "$MAGENTO_ROOT/dev/tests/unit/phpunit.xml"
+ls -la $MAGENTO_ROOT/dev/tests/unit
+cat $MAGENTO_ROOT/dev/tests/unit/phpunit.xml
 
 echo "Run the unit tests"
 cd $MAGENTO_ROOT/dev/tests/unit && ../../../vendor/bin/phpunit -c phpunit.xml
