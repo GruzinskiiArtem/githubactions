@@ -27,14 +27,11 @@ if [[ -z "$INPUT_PHPUNIT_FILE" || ! -f "$INPUT_PHPUNIT_FILE" ]] ; then
     INPUT_PHPUNIT_FILE=/tools/phpunit/phpunit.xml
 fi
 
-mkdir $MAGENTO_ROOT/app/code/Accord
+mkdir -p $MAGENTO_ROOT/app/code/Accord
 mv /temp/ $MAGENTO_ROOT/app/code/Accord
 
-echo "APP"
-ls -la  $MAGENTO_ROOT/app/
-
-echo "CODE"
-ls -la  $MAGENTO_ROOT/app/code/
+echo "Accord"
+ls -la  $MAGENTO_ROOT/app/code/Accord
 
 
 echo "Prepare for unit tests"
