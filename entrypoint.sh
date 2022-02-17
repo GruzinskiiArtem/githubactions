@@ -29,6 +29,15 @@ mv /temp/ $MAGENTO_ROOT/app/code/Test
 
 ls -la $MAGENTO_ROOT/app/code/Test
 
+echo "/tmp/m2"
+ls -la $MAGENTO_ROOT
+
+echo "/temp"
+ls -la /temp
+
+echo "tools"
+ls -la /tools
+
 echo "Prepare for unit tests"
 echo $MAGENTO_ROOT
 cd $MAGENTO_ROOT
