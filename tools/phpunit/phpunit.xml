@@ -4,7 +4,7 @@
          colors="true"
          columns="max"
          beStrictAboutTestsThatDoNotTestAnything="false"
-         bootstrap="../../dev/tests/unit/framework/bootstrap.php"
+         bootstrap="./framework/bootstrap.php"
 >
     <testsuite name="MidWestShooting">
         <directory suffix="Test.php">/*/*/Test/Unit</directory>
