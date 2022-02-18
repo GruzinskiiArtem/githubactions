@@ -6,14 +6,11 @@
          beStrictAboutTestsThatDoNotTestAnything="false"
          bootstrap="./framework/bootstrap.php"
 >
-<!--    <testsuite name="MidWestShooting">-->
-<!--        <directory suffix="Test.php">../../../app/code/Accord/Test/Unit</directory>-->
-<!--    </testsuite>-->
     <testsuites>
         <testsuite name="UnitTests">
-            <directory suffix="Test.php">../../../vendor/magento/module-inventory/Test/Unit</directory>
-            <directory suffix="Test.php">../../../vendor/magento/module-inventory/tests/Unit</directory>
-            <directory suffix="Test.php">../../../vendor/magento/module-inventory/tests/unit</directory>
+            <directory suffix="Test.php">../../../app/code/Accord/Test/Unit</directory>
+            <directory suffix="Test.php">../../../app/code/Accord/tests/Unit</directory>
+            <directory suffix="Test.php">../../../app/code/Accord/tests/unit</directory>
         </testsuite>
     </testsuites>
     <php>
