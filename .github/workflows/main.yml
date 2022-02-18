@@ -10,4 +10,4 @@ jobs:
     name: A job to say hello
     steps:
       - name: Hello world action step
-        uses: GruzinskiiArtem/githubactions@v18
+        uses: GruzinskiiArtem/githubactions@v19
