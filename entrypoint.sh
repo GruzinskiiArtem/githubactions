@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MAGENTO_ROOT=/tmp/m2
+MAGENTO_ROOT=/magento2
 PROJECT_PATH=$GITHUB_WORKSPACE
 REPOSITORY_URL="https://repo.magento.com/"
 INPUT_PHPUNIT_FILE=/tools/phpunit/phpunit.xml
@@ -23,9 +23,11 @@ cd $MAGENTO_ROOT
 echo "Run installation"
 COMPOSER_MEMORY_LIMIT=-1 composer install --prefer-dist --no-interaction --no-progress --no-suggest
 
+mv /tools $MAGENTO_ROOT/tools
+
 echo "Determine which phpunit.xml file to use"
 if [[ -z "$INPUT_PHPUNIT_FILE" || ! -f "$INPUT_PHPUNIT_FILE" ]] ; then
-    INPUT_PHPUNIT_FILE=/tools/phpunit/phpunit.xml
+    INPUT_PHPUNIT_FILE=$MAGENTO_ROOT/tools/phpunit/phpunit.xml
 fi
 
 mkdir -p $MAGENTO_ROOT/app/code/Accord
@@ -35,11 +37,11 @@ echo "/tools/phpunit/phpunit.xml"
 cat $INPUT_PHPUNIT_FILE
 
 echo "Prepare for unit tests"
-sed "s#%PROJECT_NAME%#$PROJECT_NAME#g" $INPUT_PHPUNIT_FILE > dev/tests/unit/phpunit.xml
+sed "s#%PROJECT_NAME%#$PROJECT_NAME#g" $INPUT_PHPUNIT_FILE > $INPUT_PHPUNIT_FILE
 
 echo "$MAGENTO_ROOT/dev/tests/unit/phpunit.xml"
 ls -la $MAGENTO_ROOT/app/code/Accord/Suppliers
 cat $MAGENTO_ROOT/dev/tests/unit/phpunit.xml
-
-echo "Run the unit tests"
-cd $MAGENTO_ROOT/dev/tests/unit && ../../../vendor/bin/phpunit -c phpunit.xml
+#
+#echo "Run the unit tests"
+#cd $MAGENTO_ROOT/dev/tests/unit && ../../../vendor/bin/phpunit -c phpunit.xml

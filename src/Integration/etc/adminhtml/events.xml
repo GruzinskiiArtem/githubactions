@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
-    <event name="config_data_save_before">
-        <observer name="accord_integration_save_before" instance="Accord\Integration\Observer\CheckConnectionObserver"/>
-    </event>
-    <event name="accord_settings_save_before">
-        <observer name="send_config_data_to_accord" instance="Accord\Integration\Observer\AccordConfigUpdateObserver"/>
-    </event>
-</config>

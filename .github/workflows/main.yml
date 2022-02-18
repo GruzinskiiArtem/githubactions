@@ -11,4 +11,5 @@ jobs:
     name: A job to say hello
     steps:
       - name: Hello world action step
-        uses: GruzinskiiArtem/githubactions@v26
+        uses: GruzinskiiArtem/githubactions@v27
+        run: /magento2 php vendor/phpunit/phpunit/phpunit -c ./tools/phpunit/phpunit.xml

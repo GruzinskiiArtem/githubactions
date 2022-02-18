@@ -22,7 +22,7 @@
             <exclude>
                 <directory>../../../app/code/*/*/Test</directory>
                 <directory>../../../app/code/*/*/Controller</directory>
-                <directory>.../../../app/code/*/*/Setup</directory>
+                <directory>../../../app/code/*/*/Setup</directory>
                 <directory suffix="registration.php">../../../app/code/*/*/*</directory>
             </exclude>
         </whitelist>
