@@ -8,9 +8,9 @@
 >
     <testsuites>
         <testsuite name="UnitTests">
-            <directory suffix="Test.php">../../../app/code/Accord/Test/Unit</directory>
-            <directory suffix="Test.php">../../../app/code/Accord/tests/Unit</directory>
-            <directory suffix="Test.php">../../../app/code/Accord/tests/unit</directory>
+            <directory suffix="Test.php">../../../app/code/Accord/*/Test/Unit</directory>
+            <directory suffix="Test.php">../../../app/code/Accord/*/tests/Unit</directory>
+            <directory suffix="Test.php">../../../app/code/Accord/*/tests/unit</directory>
         </testsuite>
     </testsuites>
     <php>
