@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="accord_settings" translate="label" sortOrder="0">
+            <label>Oporteo Settings</label>
+        </tab>
+        <section id="integration_accord" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+            <label>API</label>
+            <!-- Assign section to tab -->
+            <tab>accord_settings</tab>
+            <resource>Accord_Integration::configuration</resource>
+            <!-- create group for fields in section -->
+            <group id="rest_parameters" translate="label" type="text" sortOrder="5" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>General</label>
+                <!-- create text type field -->
+                <field id="version" translate="label comment" type="text"  sortOrder="0" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Version</label>
+                    <frontend_model>Accord\Integration\Block\Config\Form\Field\Version</frontend_model>
+                </field>
+                <field id="apiType" translate="label comment" sortOrder="5" type="select" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>API type</label>
+                    <source_model>Accord\Integration\Model\Config\Source\ApiType</source_model>
+                    <comment>Switch between used api</comment>
+                </field>
+                <field id="apiEndpoint" translate="label comment" sortOrder="5" type="text" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Accord API Endpoint</label>
+                    <comment>URL for building REST requests to Accord API.</comment>
+                    <validate>required-entry validate-url</validate>
+                </field>
+                <field id="apiUsername" translate="label comment" sortOrder="10" type="text" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Accord Username</label>
+                    <comment>Login used for building authorization header of API requests.</comment>
+                    <validate>required-entry</validate>
+                </field>
+                <field id="apiPassword" translate="label comment" sortOrder="15" type="text" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Accord Password</label>
+                    <comment>Password used for building authorization header of API requests.</comment>
+                    <validate>required-entry</validate>
+                </field>
+                <field id="heartbeat" translate="label button_label" type="text"  sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Heartbeat</label>
+                    <button_label><![CDATA[Check connection]]></button_label>
+                    <button_url>
+                        <![CDATA[accord_integration/config_heartbeat/check]]>
+                    </button_url>
+                    <frontend_model>Accord\Integration\Block\Config\Form\Button\HeartBeat</frontend_model>
+                </field>
+            </group>
+
+            <group id="web_hierarchy_api" translate="label" type="text" sortOrder="10"
+                   showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Web Hierarchy API</label>
+                <field id="hierarchy_sort_order" translate="label comment" sortOrder="5" type="select"
+                       showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Hierarchy Sort Order</label>
+                    <source_model>Accord\General\Model\Config\Source\EnabledDisabledSwitching</source_model>
+                    <backend_model>Accord\Integration\Model\Config\Backend\SortOrder</backend_model>
+                    <comment>
+                        If "Enabled" the sort order set in the Accord Web Hierarchy will be used in the catalog.
+                        Otherwise, if this option is set to "Disabled" the sort order set in the Accord Web Hierarchy
+                        will be ignored.
+                    </comment>
+                </field>
+            </group>
+
+            <group id="submit_order" translate="label" type="text" sortOrder="10"
+                   showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Submit Order</label>
+                <field id="override_name" translate="label comment" sortOrder="5" type="select"
+                       showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Override Name</label>
+                    <source_model>Accord\Integration\Model\Config\Source\OverrideName</source_model>
+                    <comment>For guests, non-trade customers and manually entered addresses, select the field to be used as the customers name for use in Accord against the order and the Accord Invoice.</comment>
+                </field>
+            </group>
+
+            <group id="integration" translate="label" type="text" sortOrder="20"
+                   showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Integration</label>
+                <field id="upsell_and_crosssell" translate="label comment" sortOrder="5" type="select"
+                       showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Enabled Upsells and Crosssells Integration</label>
+                    <source_model>Accord\General\Model\Config\Source\EnabledDisabledSwitching</source_model>
+                    <backend_model>Accord\Integration\Model\Config\Backend\UpsellAndCrosssell</backend_model>
+                    <comment>
+                        If "Disabled" product relations defined in Accord would be ignored, so could be manually configured.
+                        Notice: switching to "Disabled" will clear all existing relations.
+                    </comment>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>

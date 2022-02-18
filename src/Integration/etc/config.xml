@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <stores>
+        <admin>
+            <design>
+                <package>
+                    <name>default</name>
+                </package>
+                <theme>
+                    <default>default</default>
+                </theme>
+            </design>
+        </admin>
+    </stores>
+    <default>
+        <integration_accord>
+            <rest_parameters>
+                <apiType>accord</apiType>
+            </rest_parameters>
+            <web_hierarchy_api>
+                <hierarchy_sort_order>1</hierarchy_sort_order>
+            </web_hierarchy_api>
+            <submit_order>
+                <override_name>company</override_name>
+            </submit_order>
+            <integration>
+                <upsell_and_crosssell>1</upsell_and_crosssell>
+            </integration>
+        </integration_accord>
+    </default>
+</config>

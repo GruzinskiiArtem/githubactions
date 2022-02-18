@@ -7,10 +7,8 @@
          bootstrap="./framework/bootstrap.php"
 >
     <testsuites>
-        <testsuite name="UnitTests">
-            <directory suffix="Test.php">../../../app/code/Accord/*/Test/Unit</directory>
-            <directory suffix="Test.php">../../../app/code/Accord/*/tests/Unit</directory>
-            <directory suffix="Test.php">../../../app/code/Accord/*/tests/unit</directory>
+        <testsuite name="%PROJECT_NAME%">
+            <directory suffix="Test.php">../../../app/code/%PROJECT_NAME%/*/Test/Unit</directory>
         </testsuite>
     </testsuites>
     <php>
