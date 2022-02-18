@@ -12,6 +12,5 @@ jobs:
     steps:
       - name: Hello world action step
         uses: GruzinskiiArtem/githubactions@v36
-        run: "cd /magento2/tools/phpunit && ../../vendor/bin/phpunit -c phpunit.xml"
       - name: Run Unit Tests
         run: "cd /magento2/tools/phpunit && ../../vendor/bin/phpunit -c phpunit.xml"
