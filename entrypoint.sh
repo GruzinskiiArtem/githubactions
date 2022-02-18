@@ -42,6 +42,6 @@ sed "s#%PROJECT_NAME%#$PROJECT_NAME#g" $INPUT_PHPUNIT_FILE > $INPUT_PHPUNIT_FILE
 echo "$MAGENTO_ROOT/dev/tests/unit/phpunit.xml"
 ls -la $MAGENTO_ROOT/app/code/Accord/Suppliers
 cat $MAGENTO_ROOT/dev/tests/unit/phpunit.xml
-#
-#echo "Run the unit tests"
-#cd $MAGENTO_ROOT/dev/tests/unit && ../../../vendor/bin/phpunit -c phpunit.xml
+
+echo "Run the unit tests"
+cd $MAGENTO_ROOT/tools/phpunit && ../../vendor/bin/phpunit -c phpunit.xml
