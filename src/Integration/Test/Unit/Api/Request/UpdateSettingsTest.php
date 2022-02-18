@@ -2,8 +2,9 @@
 namespace Accord\Integration\Api\Request;
 
 use Accord\Integration\Test\Env\SettingsExample;
+use PHPUnit\Framework\TestCase;
 
-class UpdateSettingsTest extends \PHPUnit_Framework_TestCase
+class UpdateSettingsTest extends TestCase
 {
     use SettingsExample;
 

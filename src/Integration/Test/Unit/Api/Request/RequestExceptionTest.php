@@ -1,7 +1,8 @@
 <?php
 namespace Accord\Integration\Api\Request;
+use PHPUnit\Framework\TestCase;
 
-class RequestExceptionTest extends \PHPUnit_Framework_TestCase
+class RequestExceptionTest extends TestCase
 {
     /**
      * @test

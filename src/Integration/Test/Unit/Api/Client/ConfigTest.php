@@ -2,8 +2,9 @@
 namespace Accord\Integration\Api\Client;
 
 use GuzzleHttp\HandlerStack;
+use PHPUnit\Framework\TestCase;
 
-class ConfigTest extends \PHPUnit_Framework_TestCase
+class ConfigTest extends TestCase
 {
     /**
      * @test

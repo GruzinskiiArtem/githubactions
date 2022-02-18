@@ -2,8 +2,10 @@
 namespace Accord\Integration\Api\Client;
 
 use GuzzleHttp\HandlerStack;
+use PHPUnit\Framework\TestCase;
+use PHPUnit\Framework\MockObject\MockObject;
 
-class ClientTest extends \PHPUnit_Framework_TestCase
+class ClientTest extends TestCase
 {
     /**
      * @test
@@ -12,7 +14,7 @@ class ClientTest extends \PHPUnit_Framework_TestCase
     public function testInit()
     {
         /**
-         * @var ConfigInterface|\PHPUnit_Framework_MockObject_MockObject $config
+         * @var ConfigInterface|MockObject $config
          */
         $config = $this
             ->getMockBuilder('Accord\Integration\Api\Client\ConfigInterface')
