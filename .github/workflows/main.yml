@@ -11,6 +11,6 @@ jobs:
     name: A job to say hello
     steps:
       - name: Hello world action step
-        uses: GruzinskiiArtem/githubactions@v30
+        uses: GruzinskiiArtem/githubactions@v31
       - name: Run Unit Tests
         run: cd ${MAGENTO_ROOT}/tools/phpunit && ../../vendor/bin/phpunit -c phpunit.xml
