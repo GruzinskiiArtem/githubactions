@@ -8,9 +8,10 @@ jobs:
       MAGENTO_MARKETPLACE_USERNAME: ${{ secrets.MAGENTO_MARKETPLACE_USERNAME }}
       MAGENTO_MARKETPLACE_PASSWORD: ${{ secrets.MAGENTO_MARKETPLACE_PASSWORD }}
       PROJECT_NAME: Accord
+      MAGENTO_ROOT: /magento2
     name: A job to say hello
     steps:
       - name: Hello world action step
-        uses: GruzinskiiArtem/githubactions@v32
+        uses: GruzinskiiArtem/githubactions@v33
       - name: Run Unit Tests
-        run: cd $MAGENTO_ROOT/tools/phpunit && ../../vendor/bin/phpunit -c phpunit.xml
+        run: "cd ${{eav.MAGENTO_ROOT}}/tools/phpunit && ../../vendor/bin/phpunit -c phpunit.xml"
