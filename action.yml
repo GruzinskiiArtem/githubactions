@@ -11,7 +11,7 @@ inputs:
     required: true
     default: '2.4.3-p1'
   magento_root:
-    default: '/tmp/m2'
+    default: '/magento2'
 runs:
   using: 'docker'
   image: 'Dockerfile'
