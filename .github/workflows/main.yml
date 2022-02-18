@@ -12,5 +12,7 @@ jobs:
     steps:
       - name: Hello world action step
         uses: GruzinskiiArtem/githubactions@v36
+      - name: Run Unit TestsfsFS
+        run: "ls -la"
       - name: Run Unit Tests
         run: "cd /magento2/tools/phpunit && ../../vendor/bin/phpunit -c phpunit.xml"
