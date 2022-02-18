@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+	<menu>
+		<add id="Accord_Suppliers::accord_supplier" module="Accord_Suppliers" resource="Magento_Backend::content" sortOrder="110" title="Accord" parent="Magento_Backend::marketing"/>
+
+		<add action="accord_suppliers/supplier/index" id="Accord_Suppliers::accord_suppliers_supplier" module="Accord_Suppliers" parent="Accord_Suppliers::accord_supplier" resource="Magento_Backend::content"
+			 sortOrder="100" title="Suppliers"/>
+	</menu>
+</config>

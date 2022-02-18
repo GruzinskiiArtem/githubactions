@@ -1,0 +1,4418 @@
+[
+  {
+    "supplierCode": "",
+    "supplierName": ""
+  },
+  {
+    "supplierCode": "1",
+    "supplierName": "Internal Charges"
+  },
+  {
+    "supplierCode": "1002",
+    "supplierName": "Gonzalez Byas"
+  },
+  {
+    "supplierCode": "1013",
+    "supplierName": "Tendafrost"
+  },
+  {
+    "supplierCode": "1024",
+    "supplierName": "Carreras Rothman"
+  },
+  {
+    "supplierCode": "1035",
+    "supplierName": "Hunters Food"
+  },
+  {
+    "supplierCode": "1046",
+    "supplierName": "Pura Foods"
+  },
+  {
+    "supplierCode": "1057",
+    "supplierName": "Showerings"
+  },
+  {
+    "supplierCode": "1068",
+    "supplierName": "Sureglow Ltd"
+  },
+  {
+    "supplierCode": "107",
+    "supplierName": "Alexandra OVE"
+  },
+  {
+    "supplierCode": "1079",
+    "supplierName": "Crowsons Ltd"
+  },
+  {
+    "supplierCode": "1080",
+    "supplierName": "Cow & Gate"
+  },
+  {
+    "supplierCode": "1090",
+    "supplierName": "Sheltie Seafood"
+  },
+  {
+    "supplierCode": "11",
+    "supplierName": "Mr E Smith"
+  },
+  {
+    "supplierCode": "1109",
+    "supplierName": "Frozen Quality"
+  },
+  {
+    "supplierCode": "1110",
+    "supplierName": "B Brooks"
+  },
+  {
+    "supplierCode": "1120",
+    "supplierName": "Colgate"
+  },
+  {
+    "supplierCode": "1131",
+    "supplierName": "Culrose Foods Ltd."
+  },
+  {
+    "supplierCode": "1142",
+    "supplierName": "Colmans Foods"
+  },
+  {
+    "supplierCode": "1153",
+    "supplierName": "Colmans"
+  },
+  {
+    "supplierCode": "1164",
+    "supplierName": "Manchester Tobacco"
+  },
+  {
+    "supplierCode": "1175",
+    "supplierName": "Johnsons Wax"
+  },
+  {
+    "supplierCode": "118",
+    "supplierName": "Austria Tabak"
+  },
+  {
+    "supplierCode": "1186",
+    "supplierName": "Avery Label Systems Ltd"
+  },
+  {
+    "supplierCode": "1197",
+    "supplierName": "Seibrand"
+  },
+  {
+    "supplierCode": "1205",
+    "supplierName": "Euroimpek"
+  },
+  {
+    "supplierCode": "1216",
+    "supplierName": "Courage Ltd"
+  },
+  {
+    "supplierCode": "1227",
+    "supplierName": "Cross Paper"
+  },
+  {
+    "supplierCode": "123456",
+    "supplierName": "EDI Test Supplier"
+  },
+  {
+    "supplierCode": "1238",
+    "supplierName": "Ceredigion Dairies"
+  },
+  {
+    "supplierCode": "1249",
+    "supplierName": "Nestle"
+  },
+  {
+    "supplierCode": "1250",
+    "supplierName": "British Pepper & Spice"
+  },
+  {
+    "supplierCode": "1260",
+    "supplierName": "Cussons & Sons"
+  },
+  {
+    "supplierCode": "1271",
+    "supplierName": "Kilstern Distribution"
+  },
+  {
+    "supplierCode": "1282",
+    "supplierName": "S Daniels"
+  },
+  {
+    "supplierCode": "129",
+    "supplierName": "Anglia Canners Ltd"
+  },
+  {
+    "supplierCode": "1293",
+    "supplierName": "Crookes"
+  },
+  {
+    "supplierCode": "130",
+    "supplierName": "Atkinson Balwin Ltd"
+  },
+  {
+    "supplierCode": "1301",
+    "supplierName": "Treat Ltd"
+  },
+  {
+    "supplierCode": "1312",
+    "supplierName": "Scottish Prime Fish"
+  },
+  {
+    "supplierCode": "1323",
+    "supplierName": "Western Cider Ltd"
+  },
+  {
+    "supplierCode": "1334",
+    "supplierName": "Duracel"
+  },
+  {
+    "supplierCode": "1345",
+    "supplierName": "Cravens"
+  },
+  {
+    "supplierCode": "1356",
+    "supplierName": "Oriental Cuisine Ltd"
+  },
+  {
+    "supplierCode": "1367",
+    "supplierName": "Lofthouse"
+  },
+  {
+    "supplierCode": "1378",
+    "supplierName": "Collage Craker Company"
+  },
+  {
+    "supplierCode": "1389",
+    "supplierName": "Dairy Crest"
+  },
+  {
+    "supplierCode": "1390",
+    "supplierName": "Dunhills"
+  },
+  {
+    "supplierCode": "14",
+    "supplierName": ""
+  },
+  {
+    "supplierCode": "140",
+    "supplierName": "Anglo Bellamy Ltd"
+  },
+  {
+    "supplierCode": "1408",
+    "supplierName": "D.B.C. Ltd"
+  },
+  {
+    "supplierCode": "1419",
+    "supplierName": "Webbs Poultry"
+  },
+  {
+    "supplierCode": "1420",
+    "supplierName": "S. Daniels & Company Ltd"
+  },
+  {
+    "supplierCode": "1430",
+    "supplierName": "Lyons Patisser"
+  },
+  {
+    "supplierCode": "1441",
+    "supplierName": "Danepack Ltd"
+  },
+  {
+    "supplierCode": "1452",
+    "supplierName": "David Ellis"
+  },
+  {
+    "supplierCode": "1463",
+    "supplierName": "Dalepalk Foods"
+  },
+  {
+    "supplierCode": "1474",
+    "supplierName": "Anglo County"
+  },
+  {
+    "supplierCode": "1485",
+    "supplierName": "Euromarketing Ltd"
+  },
+  {
+    "supplierCode": "1496",
+    "supplierName": "Henry Diaper Ltd"
+  },
+  {
+    "supplierCode": "1504",
+    "supplierName": "Matther Glow"
+  },
+  {
+    "supplierCode": "151",
+    "supplierName": "Harvest Poultry"
+  },
+  {
+    "supplierCode": "1515",
+    "supplierName": "Gala"
+  },
+  {
+    "supplierCode": "1526",
+    "supplierName": "Del Monte"
+  },
+  {
+    "supplierCode": "1537",
+    "supplierName": "Food Brokers"
+  },
+  {
+    "supplierCode": "1548",
+    "supplierName": "Duerr"
+  },
+  {
+    "supplierCode": "1559",
+    "supplierName": "Dempson Ltd"
+  },
+  {
+    "supplierCode": "1560",
+    "supplierName": "Digby & Nelson"
+  },
+  {
+    "supplierCode": "1570",
+    "supplierName": "Luscas Foods"
+  },
+  {
+    "supplierCode": "1581",
+    "supplierName": "Daniels Ltd"
+  },
+  {
+    "supplierCode": "1592",
+    "supplierName": "Deeko Ltd"
+  },
+  {
+    "supplierCode": "1600",
+    "supplierName": "Master Foods"
+  },
+  {
+    "supplierCode": "1611",
+    "supplierName": "Euro Norfolk Ltd"
+  },
+  {
+    "supplierCode": "162",
+    "supplierName": "Anglia Ltd"
+  },
+  {
+    "supplierCode": "1622",
+    "supplierName": "Hendry Brothers"
+  },
+  {
+    "supplierCode": "1633",
+    "supplierName": "Dicks Meat Ltd"
+  },
+  {
+    "supplierCode": "1644",
+    "supplierName": "Kershaws"
+  },
+  {
+    "supplierCode": "1655",
+    "supplierName": "Esselte"
+  },
+  {
+    "supplierCode": "1666",
+    "supplierName": "Romana Foods Ltd"
+  },
+  {
+    "supplierCode": "1677",
+    "supplierName": "Meto Ltd"
+  },
+  {
+    "supplierCode": "1688",
+    "supplierName": "Fold Hill"
+  },
+  {
+    "supplierCode": "1699",
+    "supplierName": "R Elliot"
+  },
+  {
+    "supplierCode": "1707",
+    "supplierName": "Polydot Ltd"
+  },
+  {
+    "supplierCode": "1718",
+    "supplierName": "Blucreast Foods"
+  },
+  {
+    "supplierCode": "1729",
+    "supplierName": "Adams Biscuits Ltd"
+  },
+  {
+    "supplierCode": "173",
+    "supplierName": "Armatage Bros Ltd"
+  },
+  {
+    "supplierCode": "1730",
+    "supplierName": "Robirch Ltd"
+  },
+  {
+    "supplierCode": "1740",
+    "supplierName": "Stewarts & Sons"
+  },
+  {
+    "supplierCode": "1751",
+    "supplierName": "Harvey Prince"
+  },
+  {
+    "supplierCode": "1762",
+    "supplierName": "Gillette"
+  },
+  {
+    "supplierCode": "1773",
+    "supplierName": "Evan Rees"
+  },
+  {
+    "supplierCode": "1784",
+    "supplierName": "Continental Foods"
+  },
+  {
+    "supplierCode": "1795",
+    "supplierName": "Foregate Ltd"
+  },
+  {
+    "supplierCode": "1803",
+    "supplierName": "Falconcraft"
+  },
+  {
+    "supplierCode": "1814",
+    "supplierName": "Nation"
+  },
+  {
+    "supplierCode": "1825",
+    "supplierName": "Crooks"
+  },
+  {
+    "supplierCode": "1836",
+    "supplierName": "Front Row Foods"
+  },
+  {
+    "supplierCode": "184",
+    "supplierName": "Bailey Milk"
+  },
+  {
+    "supplierCode": "1847",
+    "supplierName": "Zero Inc"
+  },
+  {
+    "supplierCode": "1858",
+    "supplierName": "Biro Bic Ltd"
+  },
+  {
+    "supplierCode": "1869",
+    "supplierName": "Matta Ltd"
+  },
+  {
+    "supplierCode": "1870",
+    "supplierName": "Gillete"
+  },
+  {
+    "supplierCode": "1880",
+    "supplierName": "Grand"
+  },
+  {
+    "supplierCode": "1891",
+    "supplierName": "Ferrari Ltd"
+  },
+  {
+    "supplierCode": "1900",
+    "supplierName": "Gerber Food"
+  },
+  {
+    "supplierCode": "1910",
+    "supplierName": "J N Nicholls Plc"
+  },
+  {
+    "supplierCode": "1921",
+    "supplierName": "Grandose Foods Ltd"
+  },
+  {
+    "supplierCode": "1932",
+    "supplierName": "Berry King"
+  },
+  {
+    "supplierCode": "1943",
+    "supplierName": "Brokers Ltd"
+  },
+  {
+    "supplierCode": "195",
+    "supplierName": "Kool DairyLtd"
+  },
+  {
+    "supplierCode": "1954",
+    "supplierName": "Findus"
+  },
+  {
+    "supplierCode": "1965",
+    "supplierName": "Fletcher Lepcrest Ltd"
+  },
+  {
+    "supplierCode": "1976",
+    "supplierName": "Farmers Kitchen"
+  },
+  {
+    "supplierCode": "1987",
+    "supplierName": "G & A Wholesale"
+  },
+  {
+    "supplierCode": "1998",
+    "supplierName": "Edmundson Electrical Ltd"
+  },
+  {
+    "supplierCode": "2004",
+    "supplierName": "General Foods Ltd"
+  },
+  {
+    "supplierCode": "2015",
+    "supplierName": "Guiness"
+  },
+  {
+    "supplierCode": "2026",
+    "supplierName": "Gibbs Ltd"
+  },
+  {
+    "supplierCode": "203",
+    "supplierName": "Bassetts"
+  },
+  {
+    "supplierCode": "2037",
+    "supplierName": "Gallaher Ltd"
+  },
+  {
+    "supplierCode": "2048",
+    "supplierName": "Greenwood & Company"
+  },
+  {
+    "supplierCode": "2059",
+    "supplierName": "Granelli's"
+  },
+  {
+    "supplierCode": "2060",
+    "supplierName": "Hunters & Frankfert"
+  },
+  {
+    "supplierCode": "2070",
+    "supplierName": "Glen Catering"
+  },
+  {
+    "supplierCode": "2081",
+    "supplierName": "Glengettie"
+  },
+  {
+    "supplierCode": "2092",
+    "supplierName": "Hazelwood Trading"
+  },
+  {
+    "supplierCode": "2100",
+    "supplierName": "Pilsbury"
+  },
+  {
+    "supplierCode": "2111",
+    "supplierName": "Bensons Crisps"
+  },
+  {
+    "supplierCode": "2122",
+    "supplierName": "Grolsh UK Ltd"
+  },
+  {
+    "supplierCode": "2133",
+    "supplierName": "Caffery & Sons"
+  },
+  {
+    "supplierCode": "214",
+    "supplierName": "Bambo Ltd"
+  },
+  {
+    "supplierCode": "2144",
+    "supplierName": "Golden Wonder"
+  },
+  {
+    "supplierCode": "2155",
+    "supplierName": "Gordon St James"
+  },
+  {
+    "supplierCode": "2166",
+    "supplierName": "Guanaria"
+  },
+  {
+    "supplierCode": "2177",
+    "supplierName": "Dairyville Cheese Ltd"
+  },
+  {
+    "supplierCode": "2188",
+    "supplierName": "Cordhaven Ltd"
+  },
+  {
+    "supplierCode": "2199",
+    "supplierName": "The Showing Company"
+  },
+  {
+    "supplierCode": "22",
+    "supplierName": "Westmill Foods"
+  },
+  {
+    "supplierCode": "2207",
+    "supplierName": "H P Foods"
+  },
+  {
+    "supplierCode": "2218",
+    "supplierName": "Newton"
+  },
+  {
+    "supplierCode": "2229",
+    "supplierName": "Felinfoel Ltd"
+  },
+  {
+    "supplierCode": "2230",
+    "supplierName": "Llama & Sons"
+  },
+  {
+    "supplierCode": "2240",
+    "supplierName": "The Distillery Company"
+  },
+  {
+    "supplierCode": "225",
+    "supplierName": "Brook Bonds"
+  },
+  {
+    "supplierCode": "2251",
+    "supplierName": "The Printers"
+  },
+  {
+    "supplierCode": "2262",
+    "supplierName": "The Good Company"
+  },
+  {
+    "supplierCode": "2273",
+    "supplierName": "Silantro Ltd"
+  },
+  {
+    "supplierCode": "2284",
+    "supplierName": "Ash Ltd"
+  },
+  {
+    "supplierCode": "2295",
+    "supplierName": "Hulbrook Ltd"
+  },
+  {
+    "supplierCode": "2303",
+    "supplierName": "H J Heinz"
+  },
+  {
+    "supplierCode": "2314",
+    "supplierName": "Halls"
+  },
+  {
+    "supplierCode": "2325",
+    "supplierName": "Hills Buscuits"
+  },
+  {
+    "supplierCode": "2336",
+    "supplierName": "A J Mills"
+  },
+  {
+    "supplierCode": "2347",
+    "supplierName": "Hillsdown Ltd."
+  },
+  {
+    "supplierCode": "2358",
+    "supplierName": "Crown Foods"
+  },
+  {
+    "supplierCode": "236",
+    "supplierName": "Bayer UK Ltd"
+  },
+  {
+    "supplierCode": "2369",
+    "supplierName": "Acme Woodware"
+  },
+  {
+    "supplierCode": "2370",
+    "supplierName": "Hazelnut Foods,"
+  },
+  {
+    "supplierCode": "2380",
+    "supplierName": "Sauced Foods"
+  },
+  {
+    "supplierCode": "2391",
+    "supplierName": "Norfolk Foods"
+  },
+  {
+    "supplierCode": "2400",
+    "supplierName": "Dragon Fisheries"
+  },
+  {
+    "supplierCode": "2410",
+    "supplierName": "Newtime Foods"
+  },
+  {
+    "supplierCode": "2421",
+    "supplierName": "Daintree Chocolate"
+  },
+  {
+    "supplierCode": "2432",
+    "supplierName": "Lofft House"
+  },
+  {
+    "supplierCode": "2443",
+    "supplierName": "Euro Frozen"
+  },
+  {
+    "supplierCode": "2454",
+    "supplierName": "Azure Sky"
+  },
+  {
+    "supplierCode": "2465",
+    "supplierName": "Box foods"
+  },
+  {
+    "supplierCode": "247",
+    "supplierName": "Capper & Company"
+  },
+  {
+    "supplierCode": "2476",
+    "supplierName": "Ron Wood"
+  },
+  {
+    "supplierCode": "2528",
+    "supplierName": "Whitehall Lab"
+  },
+  {
+    "supplierCode": "2539",
+    "supplierName": "Imperial"
+  },
+  {
+    "supplierCode": "2540",
+    "supplierName": "Sterling Homecare"
+  },
+  {
+    "supplierCode": "2550",
+    "supplierName": "Food Import Ltd"
+  },
+  {
+    "supplierCode": "2561",
+    "supplierName": "Icied Foods Inc"
+  },
+  {
+    "supplierCode": "2572",
+    "supplierName": "Kamans Ltd"
+  },
+  {
+    "supplierCode": "258",
+    "supplierName": "Jelk Ltd"
+  },
+  {
+    "supplierCode": "2583",
+    "supplierName": "International Foods Ltd"
+  },
+  {
+    "supplierCode": "2594",
+    "supplierName": "Panda Ltd"
+  },
+  {
+    "supplierCode": "2602",
+    "supplierName": "Seal Brothers"
+  },
+  {
+    "supplierCode": "2613",
+    "supplierName": "Ajar Ltd"
+  },
+  {
+    "supplierCode": "2624",
+    "supplierName": "Grabaldi"
+  },
+  {
+    "supplierCode": "2635",
+    "supplierName": "Hellane"
+  },
+  {
+    "supplierCode": "2646",
+    "supplierName": "Hammond Sauce Company"
+  },
+  {
+    "supplierCode": "2657",
+    "supplierName": "Alien Foods"
+  },
+  {
+    "supplierCode": "2668",
+    "supplierName": "Wax Brothers"
+  },
+  {
+    "supplierCode": "2679",
+    "supplierName": "Cattel & Sons"
+  },
+  {
+    "supplierCode": "2680",
+    "supplierName": "Jeyes Ltd"
+  },
+  {
+    "supplierCode": "269",
+    "supplierName": "Southern Charm"
+  },
+  {
+    "supplierCode": "2690",
+    "supplierName": "Consort Ltd"
+  },
+  {
+    "supplierCode": "270",
+    "supplierName": "Blue Cap"
+  },
+  {
+    "supplierCode": "2709",
+    "supplierName": "Internation Distribution Ltd"
+  },
+  {
+    "supplierCode": "2710",
+    "supplierName": "Hours & Son"
+  },
+  {
+    "supplierCode": "2720",
+    "supplierName": "Jamesons"
+  },
+  {
+    "supplierCode": "2731",
+    "supplierName": "Carlesberg"
+  },
+  {
+    "supplierCode": "2742",
+    "supplierName": "Burtons"
+  },
+  {
+    "supplierCode": "2753",
+    "supplierName": "Punch Candels Ltd"
+  },
+  {
+    "supplierCode": "2764",
+    "supplierName": "Bellamy Ltd"
+  },
+  {
+    "supplierCode": "2775",
+    "supplierName": "Channel Foods"
+  },
+  {
+    "supplierCode": "2797",
+    "supplierName": "Merrydown Wine"
+  },
+  {
+    "supplierCode": "280",
+    "supplierName": "Meechams"
+  },
+  {
+    "supplierCode": "2805",
+    "supplierName": "Scotia Barry"
+  },
+  {
+    "supplierCode": "2816",
+    "supplierName": "Foodbrokers"
+  },
+  {
+    "supplierCode": "2827",
+    "supplierName": "Keighley Papermills"
+  },
+  {
+    "supplierCode": "2838",
+    "supplierName": "The Kenco Coffe Company"
+  },
+  {
+    "supplierCode": "2849",
+    "supplierName": "Early Bird"
+  },
+  {
+    "supplierCode": "2850",
+    "supplierName": "James Keiller & Sons"
+  },
+  {
+    "supplierCode": "2860",
+    "supplierName": "Kellogg"
+  },
+  {
+    "supplierCode": "2871",
+    "supplierName": "James Parry"
+  },
+  {
+    "supplierCode": "2882",
+    "supplierName": "Kenco Chemicals"
+  },
+  {
+    "supplierCode": "2893",
+    "supplierName": "Leon & Frenkel"
+  },
+  {
+    "supplierCode": "2901",
+    "supplierName": "Gala Brokers"
+  },
+  {
+    "supplierCode": "291",
+    "supplierName": "Gwent Dairies"
+  },
+  {
+    "supplierCode": "2912",
+    "supplierName": "Chemical Company"
+  },
+  {
+    "supplierCode": "2923",
+    "supplierName": "Kimberly"
+  },
+  {
+    "supplierCode": "2934",
+    "supplierName": "H Knight & Son"
+  },
+  {
+    "supplierCode": "2945",
+    "supplierName": "Soft Distribution Ltd"
+  },
+  {
+    "supplierCode": "2956",
+    "supplierName": "S H Smith"
+  },
+  {
+    "supplierCode": "2967",
+    "supplierName": "Kimball Systems"
+  },
+  {
+    "supplierCode": "2978",
+    "supplierName": "Supercook Ltd"
+  },
+  {
+    "supplierCode": "2989",
+    "supplierName": "Cortina Foods"
+  },
+  {
+    "supplierCode": "2990",
+    "supplierName": "Lane Foods"
+  },
+  {
+    "supplierCode": "300",
+    "supplierName": "BEECHAMS"
+  },
+  {
+    "supplierCode": "3006",
+    "supplierName": "DANISH BACON COMPANY PLC."
+  },
+  {
+    "supplierCode": "3017",
+    "supplierName": "FESTIVE PROMOTIONS"
+  },
+  {
+    "supplierCode": "3028",
+    "supplierName": "KRAFT FOODS"
+  },
+  {
+    "supplierCode": "3039",
+    "supplierName": "Kraft Foods"
+  },
+  {
+    "supplierCode": "3040",
+    "supplierName": "Krunchie Foods"
+  },
+  {
+    "supplierCode": "3050",
+    "supplierName": "Bavaria UK"
+  },
+  {
+    "supplierCode": "3061",
+    "supplierName": "B KERSHAW & CO (1920) LTD"
+  },
+  {
+    "supplierCode": "3072",
+    "supplierName": "Kodak Ltd"
+  },
+  {
+    "supplierCode": "3083",
+    "supplierName": "SQUIRREL CON"
+  },
+  {
+    "supplierCode": "310",
+    "supplierName": "BEROL LTD"
+  },
+  {
+    "supplierCode": "3124",
+    "supplierName": "THE LANE"
+  },
+  {
+    "supplierCode": "3135",
+    "supplierName": "F C LOWE LTD"
+  },
+  {
+    "supplierCode": "3146",
+    "supplierName": "LANGRO PRODUCTS"
+  },
+  {
+    "supplierCode": "3157",
+    "supplierName": "LAKELAND FOODS LTD"
+  },
+  {
+    "supplierCode": "3168",
+    "supplierName": "LEDBURY PRESERVES LTD.,"
+  },
+  {
+    "supplierCode": "3179",
+    "supplierName": "BALHSENS BISCUITS."
+  },
+  {
+    "supplierCode": "3180",
+    "supplierName": "LANGRO PRODUCTS LTD (OUR)"
+  },
+  {
+    "supplierCode": "3190",
+    "supplierName": "NORTH OF OTLEY"
+  },
+  {
+    "supplierCode": "3209",
+    "supplierName": "LEVER BROS"
+  },
+  {
+    "supplierCode": "321",
+    "supplierName": "SUNDROPS LTD"
+  },
+  {
+    "supplierCode": "3210",
+    "supplierName": "LEDBURY PRESERVES LTD(OUR"
+  },
+  {
+    "supplierCode": "3220",
+    "supplierName": "LAKELAND FOOD"
+  },
+  {
+    "supplierCode": "3231",
+    "supplierName": "LOFTHOUSE LTD"
+  },
+  {
+    "supplierCode": "3242",
+    "supplierName": "LILIA WHITE SALES LTD"
+  },
+  {
+    "supplierCode": "3253",
+    "supplierName": "LEAF"
+  },
+  {
+    "supplierCode": "3264",
+    "supplierName": "LINDT (ENGLAND) LTD"
+  },
+  {
+    "supplierCode": "33",
+    "supplierName": "E Smith & Sons"
+  },
+  {
+    "supplierCode": "3305",
+    "supplierName": "L.R.C."
+  },
+  {
+    "supplierCode": "332",
+    "supplierName": "SCOTIA BARRY"
+  },
+  {
+    "supplierCode": "3327",
+    "supplierName": "LOVELLS"
+  },
+  {
+    "supplierCode": "3338",
+    "supplierName": "S.WALES PAPER"
+  },
+  {
+    "supplierCode": "3349",
+    "supplierName": "H.LEE LTD"
+  },
+  {
+    "supplierCode": "3360",
+    "supplierName": "J EVERSHED +SON"
+  },
+  {
+    "supplierCode": "3371",
+    "supplierName": "F.E.BAEBER"
+  },
+  {
+    "supplierCode": "3382",
+    "supplierName": "W+W P.O.S.CASH"
+  },
+  {
+    "supplierCode": "3393",
+    "supplierName": "LYONS TETLEY LTD"
+  },
+  {
+    "supplierCode": "3401",
+    "supplierName": "LYONS TETLEY"
+  },
+  {
+    "supplierCode": "3412",
+    "supplierName": "LYONS BISCUIT DIVISION"
+  },
+  {
+    "supplierCode": "3423",
+    "supplierName": "PARRS QUALITY CONFECT"
+  },
+  {
+    "supplierCode": "343",
+    "supplierName": "BUITONI"
+  },
+  {
+    "supplierCode": "3434",
+    "supplierName": "BOURGOIN UK"
+  },
+  {
+    "supplierCode": "3445",
+    "supplierName": "W.B.DERBY ADVENT CALENDER"
+  },
+  {
+    "supplierCode": "3456",
+    "supplierName": "JENKS BROKERAGE"
+  },
+  {
+    "supplierCode": "3489",
+    "supplierName": "A.J.MILLS & CO."
+  },
+  {
+    "supplierCode": "3490",
+    "supplierName": "MC CAIN INTERNATIONAL LTD"
+  },
+  {
+    "supplierCode": "3508",
+    "supplierName": "LION FOODS"
+  },
+  {
+    "supplierCode": "3519",
+    "supplierName": "MIDLAND COUNTIES LTD"
+  },
+  {
+    "supplierCode": "3520",
+    "supplierName": "J.MACKLE"
+  },
+  {
+    "supplierCode": "3530",
+    "supplierName": "MANOR VINEGAR"
+  },
+  {
+    "supplierCode": "354",
+    "supplierName": "BURTON BISCUITS"
+  },
+  {
+    "supplierCode": "3541",
+    "supplierName": "MAYNARDS"
+  },
+  {
+    "supplierCode": "3552",
+    "supplierName": "MEMORY LANE"
+  },
+  {
+    "supplierCode": "3563",
+    "supplierName": "MARS LTD"
+  },
+  {
+    "supplierCode": "3574",
+    "supplierName": "GILBERT S MCCAUL & CO"
+  },
+  {
+    "supplierCode": "3585",
+    "supplierName": "A. MC COWAN"
+  },
+  {
+    "supplierCode": "3596",
+    "supplierName": "MARTINI LTD"
+  },
+  {
+    "supplierCode": "3604",
+    "supplierName": "J J MASTERS CO LTD"
+  },
+  {
+    "supplierCode": "3615",
+    "supplierName": "MATTERSONS LTD"
+  },
+  {
+    "supplierCode": "3626",
+    "supplierName": "MATHEWS + SKAILES LTD"
+  },
+  {
+    "supplierCode": "3637",
+    "supplierName": "KIRIL MISCHEFF"
+  },
+  {
+    "supplierCode": "3648",
+    "supplierName": "P.MORRIS"
+  },
+  {
+    "supplierCode": "365",
+    "supplierName": "COSTA+CO REP"
+  },
+  {
+    "supplierCode": "3659",
+    "supplierName": "SHEPARDS."
+  },
+  {
+    "supplierCode": "3660",
+    "supplierName": "MILES LABORATORIES LTD"
+  },
+  {
+    "supplierCode": "3670",
+    "supplierName": "MCBRIDES"
+  },
+  {
+    "supplierCode": "3681",
+    "supplierName": "A J MILLS + CO LTD"
+  },
+  {
+    "supplierCode": "3692",
+    "supplierName": "MORGAN FURZE LTD."
+  },
+  {
+    "supplierCode": "3700",
+    "supplierName": "BRYANT + MAY"
+  },
+  {
+    "supplierCode": "3711",
+    "supplierName": "MCVITIE'S F\/F"
+  },
+  {
+    "supplierCode": "3722",
+    "supplierName": "HILLSDOWN LTD."
+  },
+  {
+    "supplierCode": "3733",
+    "supplierName": "NEEDLERS"
+  },
+  {
+    "supplierCode": "3744",
+    "supplierName": "MILES MARKETING"
+  },
+  {
+    "supplierCode": "3755",
+    "supplierName": "MONTPELLIER F\/FOODS LTD"
+  },
+  {
+    "supplierCode": "376",
+    "supplierName": "ANKER DATA SYSTEMS"
+  },
+  {
+    "supplierCode": "3766",
+    "supplierName": "MERSEYSIDE FOOD"
+  },
+  {
+    "supplierCode": "3777",
+    "supplierName": "Mc.CAIN FOODS"
+  },
+  {
+    "supplierCode": "3788",
+    "supplierName": "B\/MATHEWS"
+  },
+  {
+    "supplierCode": "3799",
+    "supplierName": "3 M LTD"
+  },
+  {
+    "supplierCode": "3807",
+    "supplierName": "THE JACOBS CO"
+  },
+  {
+    "supplierCode": "3818",
+    "supplierName": "NOR SYSTEMS"
+  },
+  {
+    "supplierCode": "3829",
+    "supplierName": "PHILLIP MORGAN + SON"
+  },
+  {
+    "supplierCode": "3830",
+    "supplierName": "NORMAN PENDRED"
+  },
+  {
+    "supplierCode": "3840",
+    "supplierName": "NORMAN PENDRED"
+  },
+  {
+    "supplierCode": "3851",
+    "supplierName": "Nestle"
+  },
+  {
+    "supplierCode": "3862",
+    "supplierName": "NICHOLAS"
+  },
+  {
+    "supplierCode": "387",
+    "supplierName": "FE BARB (CWS)"
+  },
+  {
+    "supplierCode": "3873",
+    "supplierName": "NEWFORGE"
+  },
+  {
+    "supplierCode": "3884",
+    "supplierName": "LAMP LIGHT FARMS LTD."
+  },
+  {
+    "supplierCode": "3903",
+    "supplierName": "T.G.SMITH (LIVERPOOL) LTD"
+  },
+  {
+    "supplierCode": "3914",
+    "supplierName": "OMEGA LAMP WORKS LTD"
+  },
+  {
+    "supplierCode": "3925",
+    "supplierName": "G.OWEN + SONS"
+  },
+  {
+    "supplierCode": "3936",
+    "supplierName": "POLY-LINA"
+  },
+  {
+    "supplierCode": "3947",
+    "supplierName": "BAHLSONS"
+  },
+  {
+    "supplierCode": "3958",
+    "supplierName": "OSRAM"
+  },
+  {
+    "supplierCode": "3969",
+    "supplierName": "LE PRITCHETT + CO LTD"
+  },
+  {
+    "supplierCode": "398",
+    "supplierName": "BUXTED POULTRY LTD"
+  },
+  {
+    "supplierCode": "3980",
+    "supplierName": "PORTH'84 LTD."
+  },
+  {
+    "supplierCode": "3991",
+    "supplierName": "PRETTY POLLY"
+  },
+  {
+    "supplierCode": "4008",
+    "supplierName": "PANDA DRINKS"
+  },
+  {
+    "supplierCode": "4019",
+    "supplierName": "PANDA PLASTICS LTD"
+  },
+  {
+    "supplierCode": "4020",
+    "supplierName": "PEARCE DUFF"
+  },
+  {
+    "supplierCode": "4030",
+    "supplierName": "PEABODY FOODS LTD"
+  },
+  {
+    "supplierCode": "4041",
+    "supplierName": "PHOTOPLUS"
+  },
+  {
+    "supplierCode": "4052",
+    "supplierName": "C PAYNE + CO"
+  },
+  {
+    "supplierCode": "406",
+    "supplierName": "AMBERLEY  FOODS"
+  },
+  {
+    "supplierCode": "4063",
+    "supplierName": "PETFOODS LTD"
+  },
+  {
+    "supplierCode": "4074",
+    "supplierName": "S\/SOVEREIGN"
+  },
+  {
+    "supplierCode": "4085",
+    "supplierName": "M.PHILLIPS + CO."
+  },
+  {
+    "supplierCode": "4096",
+    "supplierName": "PLATIGNUM"
+  },
+  {
+    "supplierCode": "4104",
+    "supplierName": "STERLING HEALTH"
+  },
+  {
+    "supplierCode": "4115",
+    "supplierName": "WD & HD WILLS"
+  },
+  {
+    "supplierCode": "4126",
+    "supplierName": "F J PARSONS + CO LTD"
+  },
+  {
+    "supplierCode": "4137",
+    "supplierName": "N.K.P LTD"
+  },
+  {
+    "supplierCode": "4148",
+    "supplierName": "PLUMROSE"
+  },
+  {
+    "supplierCode": "4159",
+    "supplierName": "PAPERWORK HOLD"
+  },
+  {
+    "supplierCode": "4160",
+    "supplierName": "PARK LANE"
+  },
+  {
+    "supplierCode": "417",
+    "supplierName": "BIRDS EYE LTD"
+  },
+  {
+    "supplierCode": "4170",
+    "supplierName": "TOWERS & CO. LTD."
+  },
+  {
+    "supplierCode": "4181",
+    "supplierName": "PROCTOR + GAMBLE"
+  },
+  {
+    "supplierCode": "4192",
+    "supplierName": "PROCTOR + GAMBLE"
+  },
+  {
+    "supplierCode": "4200",
+    "supplierName": "QUAKER OATS"
+  },
+  {
+    "supplierCode": "4211",
+    "supplierName": "JR PARKINGTON"
+  },
+  {
+    "supplierCode": "4222",
+    "supplierName": "RADFORD ICE CREAM"
+  },
+  {
+    "supplierCode": "4233",
+    "supplierName": "OSRAM JEC"
+  },
+  {
+    "supplierCode": "4244",
+    "supplierName": "PRICE'S"
+  },
+  {
+    "supplierCode": "4255",
+    "supplierName": "MR RAY EDWARDS"
+  },
+  {
+    "supplierCode": "4266",
+    "supplierName": "P+L SYSTEMS"
+  },
+  {
+    "supplierCode": "4277",
+    "supplierName": "S.MANUEL LTD"
+  },
+  {
+    "supplierCode": "428",
+    "supplierName": "FRESHBAKE"
+  },
+  {
+    "supplierCode": "4288",
+    "supplierName": "J.E.SELLS"
+  },
+  {
+    "supplierCode": "4299",
+    "supplierName": "SCHWEPPES"
+  },
+  {
+    "supplierCode": "4307",
+    "supplierName": "CUSSONS SONS CO LTD"
+  },
+  {
+    "supplierCode": "4318",
+    "supplierName": "O.P. CHOC"
+  },
+  {
+    "supplierCode": "4329",
+    "supplierName": "MULLER DAIRY UK LTD"
+  },
+  {
+    "supplierCode": "4330",
+    "supplierName": "C.C.SOFT DRINKS LTD."
+  },
+  {
+    "supplierCode": "4340",
+    "supplierName": "RAYNER BURGESS"
+  },
+  {
+    "supplierCode": "4351",
+    "supplierName": "BRITVIC"
+  },
+  {
+    "supplierCode": "4362",
+    "supplierName": "RIZLA LTD"
+  },
+  {
+    "supplierCode": "4373",
+    "supplierName": "FOUR SQUARE"
+  },
+  {
+    "supplierCode": "4384",
+    "supplierName": "RECKITT"
+  },
+  {
+    "supplierCode": "439",
+    "supplierName": "BIRDS EYE LTD"
+  },
+  {
+    "supplierCode": "4395",
+    "supplierName": "SCHWEPPES"
+  },
+  {
+    "supplierCode": "44",
+    "supplierName": "BRITISH ALCAN"
+  },
+  {
+    "supplierCode": "440",
+    "supplierName": "BOVRIL"
+  },
+  {
+    "supplierCode": "4403",
+    "supplierName": "R H M FOODS"
+  },
+  {
+    "supplierCode": "4414",
+    "supplierName": "SCHWEPPES"
+  },
+  {
+    "supplierCode": "4425",
+    "supplierName": "NABISCO"
+  },
+  {
+    "supplierCode": "4436",
+    "supplierName": "ROSS LTD"
+  },
+  {
+    "supplierCode": "4447",
+    "supplierName": "J.ROBERTSON"
+  },
+  {
+    "supplierCode": "4458",
+    "supplierName": "RIDPATH PEK LTD."
+  },
+  {
+    "supplierCode": "4469",
+    "supplierName": "SCHWEPPES"
+  },
+  {
+    "supplierCode": "4470",
+    "supplierName": "K.P. FOODS LTD,"
+  },
+  {
+    "supplierCode": "4480",
+    "supplierName": "SCHWEPPES"
+  },
+  {
+    "supplierCode": "4491",
+    "supplierName": "RUSSEL M.LTD"
+  },
+  {
+    "supplierCode": "450",
+    "supplierName": "EURO VINTNERS"
+  },
+  {
+    "supplierCode": "4500",
+    "supplierName": "WALSHAM MILL."
+  },
+  {
+    "supplierCode": "4510",
+    "supplierName": "J.BURROUGH"
+  },
+  {
+    "supplierCode": "4521",
+    "supplierName": "ROWNTREE + CO LTD"
+  },
+  {
+    "supplierCode": "4532",
+    "supplierName": "RIDGWAYS"
+  },
+  {
+    "supplierCode": "4543",
+    "supplierName": "NESTLES (ROWN)"
+  },
+  {
+    "supplierCode": "4554",
+    "supplierName": "HEALTHY FOOD(NATURE STOR)"
+  },
+  {
+    "supplierCode": "4565",
+    "supplierName": "BUKO WIRE"
+  },
+  {
+    "supplierCode": "4576",
+    "supplierName": "SARA LEE"
+  },
+  {
+    "supplierCode": "4587",
+    "supplierName": "FORT STERLING"
+  },
+  {
+    "supplierCode": "4598",
+    "supplierName": "P+G MEDICINES"
+  },
+  {
+    "supplierCode": "4606",
+    "supplierName": "SWIZZELS"
+  },
+  {
+    "supplierCode": "461",
+    "supplierName": "MATTHEW WALKER"
+  },
+  {
+    "supplierCode": "4617",
+    "supplierName": "PATERSON BRONTE"
+  },
+  {
+    "supplierCode": "4628",
+    "supplierName": "SOMPORTEX HOUSE,"
+  },
+  {
+    "supplierCode": "4639",
+    "supplierName": "STERLING MANSELL LTD (OUR"
+  },
+  {
+    "supplierCode": "4640",
+    "supplierName": "CLARK PACK"
+  },
+  {
+    "supplierCode": "4650",
+    "supplierName": "TREBOR SHARPE"
+  },
+  {
+    "supplierCode": "4661",
+    "supplierName": "LION FOODS LTD."
+  },
+  {
+    "supplierCode": "4672",
+    "supplierName": "SMALLWARES"
+  },
+  {
+    "supplierCode": "4683",
+    "supplierName": "TAUNTON CIDER"
+  },
+  {
+    "supplierCode": "4694",
+    "supplierName": "SHARWOOD"
+  },
+  {
+    "supplierCode": "4702",
+    "supplierName": "C.SHIPPAM LTD"
+  },
+  {
+    "supplierCode": "4713",
+    "supplierName": "R.SCOTT"
+  },
+  {
+    "supplierCode": "472",
+    "supplierName": "BOWYERS"
+  },
+  {
+    "supplierCode": "4724",
+    "supplierName": "ROYAL DANSK."
+  },
+  {
+    "supplierCode": "4735",
+    "supplierName": "RUSSELL M.LTD"
+  },
+  {
+    "supplierCode": "4746",
+    "supplierName": "SIMPSON FDS"
+  },
+  {
+    "supplierCode": "4757",
+    "supplierName": "DRIPAK"
+  },
+  {
+    "supplierCode": "4768",
+    "supplierName": "SIEBRAND LTD."
+  },
+  {
+    "supplierCode": "4779",
+    "supplierName": "SUPREME SALT"
+  },
+  {
+    "supplierCode": "4780",
+    "supplierName": "SMITHS CRISPS"
+  },
+  {
+    "supplierCode": "4790",
+    "supplierName": "SCOT&NEWCASTLE"
+  },
+  {
+    "supplierCode": "4810",
+    "supplierName": "SPILLERS LTD"
+  },
+  {
+    "supplierCode": "4820",
+    "supplierName": "SPILLERS"
+  },
+  {
+    "supplierCode": "483",
+    "supplierName": "SCOTT"
+  },
+  {
+    "supplierCode": "4831",
+    "supplierName": "STOCKS LOVELL."
+  },
+  {
+    "supplierCode": "4842",
+    "supplierName": "SMITH&NEPHEW"
+  },
+  {
+    "supplierCode": "4853",
+    "supplierName": "STEVENS + BROTHERTON"
+  },
+  {
+    "supplierCode": "4864",
+    "supplierName": "SMITH&NEPHEW"
+  },
+  {
+    "supplierCode": "4875",
+    "supplierName": "SMITH&NEWPHEW"
+  },
+  {
+    "supplierCode": "4886",
+    "supplierName": "SMITH&NEPHEW"
+  },
+  {
+    "supplierCode": "4897",
+    "supplierName": "PAPER ACCESSORY LTD."
+  },
+  {
+    "supplierCode": "4905",
+    "supplierName": "BUTCHERS SUNDRIES LTD.,"
+  },
+  {
+    "supplierCode": "4916",
+    "supplierName": "HEALTHY FOOD (SUNFOODS)"
+  },
+  {
+    "supplierCode": "4927",
+    "supplierName": "PASTA FOODS"
+  },
+  {
+    "supplierCode": "4938",
+    "supplierName": "SPONTEX"
+  },
+  {
+    "supplierCode": "494",
+    "supplierName": "ANDUTRA"
+  },
+  {
+    "supplierCode": "4949",
+    "supplierName": "BRITISH SUGAR"
+  },
+  {
+    "supplierCode": "4950",
+    "supplierName": "GEE TEE INDUSTRIAL"
+  },
+  {
+    "supplierCode": "4960",
+    "supplierName": "LYONS TETLEY LTD"
+  },
+  {
+    "supplierCode": "4971",
+    "supplierName": "TOBLER"
+  },
+  {
+    "supplierCode": "4982",
+    "supplierName": "THOMPSON POULTRY LTD"
+  },
+  {
+    "supplierCode": "4993",
+    "supplierName": "SPEARHEAD"
+  },
+  {
+    "supplierCode": "5000",
+    "supplierName": "STANBROOK PUBLICATIONS"
+  },
+  {
+    "supplierCode": "5010",
+    "supplierName": "R&W SCOTT LTD"
+  },
+  {
+    "supplierCode": "502",
+    "supplierName": "B+G. PRODUCTS LTD."
+  },
+  {
+    "supplierCode": "5021",
+    "supplierName": "H.DIAPER"
+  },
+  {
+    "supplierCode": "5032",
+    "supplierName": "R.J.REYNOLDS"
+  },
+  {
+    "supplierCode": "5054",
+    "supplierName": "SWADDLERS LTD"
+  },
+  {
+    "supplierCode": "5065",
+    "supplierName": "DAIRY CREST"
+  },
+  {
+    "supplierCode": "5087",
+    "supplierName": "K.P.FOODS"
+  },
+  {
+    "supplierCode": "5098",
+    "supplierName": "TEMANA BEES LIMITED"
+  },
+  {
+    "supplierCode": "5106",
+    "supplierName": "TAMBRANDS LTD"
+  },
+  {
+    "supplierCode": "5117",
+    "supplierName": "TENDAFROST"
+  },
+  {
+    "supplierCode": "5128",
+    "supplierName": "VICO FOODS"
+  },
+  {
+    "supplierCode": "513",
+    "supplierName": "T.HAMMOND"
+  },
+  {
+    "supplierCode": "5139",
+    "supplierName": "FOODBROKERS LTD"
+  },
+  {
+    "supplierCode": "5140",
+    "supplierName": "J.TETLEY CO.LTD.,"
+  },
+  {
+    "supplierCode": "5150",
+    "supplierName": "TULIP MEAT CO,"
+  },
+  {
+    "supplierCode": "5161",
+    "supplierName": "TAVENERS"
+  },
+  {
+    "supplierCode": "5172",
+    "supplierName": "TAYLOR LAW & CO"
+  },
+  {
+    "supplierCode": "5183",
+    "supplierName": "H.A.C.THOMAS"
+  },
+  {
+    "supplierCode": "5194",
+    "supplierName": "JOHN THOMAS"
+  },
+  {
+    "supplierCode": "5202",
+    "supplierName": "TK INTERNATIONAL"
+  },
+  {
+    "supplierCode": "5213",
+    "supplierName": "MESSRS G THOMPSON"
+  },
+  {
+    "supplierCode": "5224",
+    "supplierName": "TULIP MEATS."
+  },
+  {
+    "supplierCode": "5235",
+    "supplierName": "BLUECREST LTD"
+  },
+  {
+    "supplierCode": "524",
+    "supplierName": "BRISTOL MYERS LTD"
+  },
+  {
+    "supplierCode": "5246",
+    "supplierName": "MILLS & BOON LTD."
+  },
+  {
+    "supplierCode": "5257",
+    "supplierName": "SPEEDIBAKE LTD"
+  },
+  {
+    "supplierCode": "5268",
+    "supplierName": "NANNYMA FOODS"
+  },
+  {
+    "supplierCode": "5280",
+    "supplierName": "THOMPSON+SONS"
+  },
+  {
+    "supplierCode": "5290",
+    "supplierName": "W.A.TURNER"
+  },
+  {
+    "supplierCode": "5309",
+    "supplierName": "TROPHY"
+  },
+  {
+    "supplierCode": "5320",
+    "supplierName": "ST IVEL"
+  },
+  {
+    "supplierCode": "5331",
+    "supplierName": "SEALWEST LTD"
+  },
+  {
+    "supplierCode": "5342",
+    "supplierName": "UNITED BISCS LTD."
+  },
+  {
+    "supplierCode": "535",
+    "supplierName": "B\/Eye Walls"
+  },
+  {
+    "supplierCode": "5353",
+    "supplierName": "UNITED PACKAGING LTD"
+  },
+  {
+    "supplierCode": "5364",
+    "supplierName": "Vase Manufacturer     ."
+  },
+  {
+    "supplierCode": "5375",
+    "supplierName": "U.B.(MCVIT)"
+  },
+  {
+    "supplierCode": "5386",
+    "supplierName": "SPAR U.K."
+  },
+  {
+    "supplierCode": "5397",
+    "supplierName": "PURA FOODS"
+  },
+  {
+    "supplierCode": "5405",
+    "supplierName": "VAN DEN BERGHS"
+  },
+  {
+    "supplierCode": "5416",
+    "supplierName": "VILEDA LIMITED"
+  },
+  {
+    "supplierCode": "5427",
+    "supplierName": "K.VINE LTD.,"
+  },
+  {
+    "supplierCode": "5438",
+    "supplierName": "GILBEY VINTNERS LTD"
+  },
+  {
+    "supplierCode": "5449",
+    "supplierName": "VEERASWAMY"
+  },
+  {
+    "supplierCode": "5450",
+    "supplierName": "BP NUTRITION"
+  },
+  {
+    "supplierCode": "546",
+    "supplierName": "Weetabix Limited"
+  },
+  {
+    "supplierCode": "5460",
+    "supplierName": "VISKASE LTD.,"
+  },
+  {
+    "supplierCode": "5471",
+    "supplierName": "VISKASE LTD"
+  },
+  {
+    "supplierCode": "5482",
+    "supplierName": "WELLS LTD"
+  },
+  {
+    "supplierCode": "5493",
+    "supplierName": "MCBRIDES POWDER"
+  },
+  {
+    "supplierCode": "55",
+    "supplierName": "Allied T\/Home"
+  },
+  {
+    "supplierCode": "5501",
+    "supplierName": "B TISSUES"
+  },
+  {
+    "supplierCode": "5512",
+    "supplierName": "H & T WALKER"
+  },
+  {
+    "supplierCode": "5523",
+    "supplierName": "R. WILSON"
+  },
+  {
+    "supplierCode": "5534",
+    "supplierName": "RYVITA"
+  },
+  {
+    "supplierCode": "5545",
+    "supplierName": "WANDER"
+  },
+  {
+    "supplierCode": "5556",
+    "supplierName": "W D+H D WILLS"
+  },
+  {
+    "supplierCode": "5567",
+    "supplierName": "RYDES"
+  },
+  {
+    "supplierCode": "557",
+    "supplierName": "ALCAN POLYFOIL LTD"
+  },
+  {
+    "supplierCode": "5578",
+    "supplierName": "HILLSDOWN HOUSE ."
+  },
+  {
+    "supplierCode": "5589",
+    "supplierName": "WEETABIX LTD"
+  },
+  {
+    "supplierCode": "5590",
+    "supplierName": "Bass LTD."
+  },
+  {
+    "supplierCode": "5608",
+    "supplierName": "E.J. ARNOLD"
+  },
+  {
+    "supplierCode": "5619",
+    "supplierName": "STAPLE DAIRY PRODUCTS"
+  },
+  {
+    "supplierCode": "5620",
+    "supplierName": "JOHN WEST"
+  },
+  {
+    "supplierCode": "5630",
+    "supplierName": "MARIETTA F\/F"
+  },
+  {
+    "supplierCode": "5641",
+    "supplierName": "WALKERS CRISPS"
+  },
+  {
+    "supplierCode": "5652",
+    "supplierName": "WHITBREAD"
+  },
+  {
+    "supplierCode": "5663",
+    "supplierName": "WHITEWAYS CYDER CO.LTD.,"
+  },
+  {
+    "supplierCode": "5674",
+    "supplierName": "WALKERS NONSUCH"
+  },
+  {
+    "supplierCode": "568",
+    "supplierName": "BRITISH TISSUES"
+  },
+  {
+    "supplierCode": "5685",
+    "supplierName": "WHITWORTHS"
+  },
+  {
+    "supplierCode": "5696",
+    "supplierName": "YORKSHIRE&CONT  PROD"
+  },
+  {
+    "supplierCode": "5704",
+    "supplierName": "WILKINS&SONS"
+  },
+  {
+    "supplierCode": "5715",
+    "supplierName": "YOUNGS"
+  },
+  {
+    "supplierCode": "5726",
+    "supplierName": "WILK SWORD"
+  },
+  {
+    "supplierCode": "5737",
+    "supplierName": "CHARLES WELLS LTD"
+  },
+  {
+    "supplierCode": "5748",
+    "supplierName": "BEAR ASSOCIATES (SPAR)"
+  },
+  {
+    "supplierCode": "5759",
+    "supplierName": "SPILLERS"
+  },
+  {
+    "supplierCode": "5770",
+    "supplierName": "CREATIVE FOODS LTD."
+  },
+  {
+    "supplierCode": "5781",
+    "supplierName": "WRIGLEY"
+  },
+  {
+    "supplierCode": "579",
+    "supplierName": "BERRY KING"
+  },
+  {
+    "supplierCode": "580",
+    "supplierName": "BRIT.VINEGAR"
+  },
+  {
+    "supplierCode": "5800",
+    "supplierName": "WIGGENS TEAPE GROUP,"
+  },
+  {
+    "supplierCode": "5811",
+    "supplierName": "ST.IVEL"
+  },
+  {
+    "supplierCode": "5822",
+    "supplierName": "WINTERBOTTAM REP"
+  },
+  {
+    "supplierCode": "5833",
+    "supplierName": "J P WOOD"
+  },
+  {
+    "supplierCode": "590",
+    "supplierName": "FOOD BROKERS LTD"
+  },
+  {
+    "supplierCode": "6023",
+    "supplierName": "DISTILLERS"
+  },
+  {
+    "supplierCode": "6034",
+    "supplierName": "TOM SMITHS."
+  },
+  {
+    "supplierCode": "6045",
+    "supplierName": "BONNIE BAKER"
+  },
+  {
+    "supplierCode": "6056",
+    "supplierName": "WHITEWAYS"
+  },
+  {
+    "supplierCode": "6067",
+    "supplierName": "VOLUMATIC"
+  },
+  {
+    "supplierCode": "6078",
+    "supplierName": "G. VINTNERS"
+  },
+  {
+    "supplierCode": "6089",
+    "supplierName": "BUCHANAN BOOTH"
+  },
+  {
+    "supplierCode": "609",
+    "supplierName": "SIBBALD SALES"
+  },
+  {
+    "supplierCode": "6090",
+    "supplierName": "BELLS"
+  },
+  {
+    "supplierCode": "610",
+    "supplierName": "SUNJUICE LTD"
+  },
+  {
+    "supplierCode": "6108",
+    "supplierName": "UNITED RUM"
+  },
+  {
+    "supplierCode": "6119",
+    "supplierName": "JOHN HARVEY AND SONS"
+  },
+  {
+    "supplierCode": "6120",
+    "supplierName": "WM TEACHERS"
+  },
+  {
+    "supplierCode": "6130",
+    "supplierName": "J R PHILLIPS"
+  },
+  {
+    "supplierCode": "6141",
+    "supplierName": "MATTHEW CLARK"
+  },
+  {
+    "supplierCode": "6152",
+    "supplierName": "WINDSOR CREAM"
+  },
+  {
+    "supplierCode": "6163",
+    "supplierName": "WALLS MEAT"
+  },
+  {
+    "supplierCode": "6174",
+    "supplierName": "EXPRESS FOODS LTD"
+  },
+  {
+    "supplierCode": "6185",
+    "supplierName": "H.DIAPER"
+  },
+  {
+    "supplierCode": "6196",
+    "supplierName": "CINZANO UK"
+  },
+  {
+    "supplierCode": "620",
+    "supplierName": "MC.BRIDES"
+  },
+  {
+    "supplierCode": "6204",
+    "supplierName": "WESTBAY DIST"
+  },
+  {
+    "supplierCode": "6215",
+    "supplierName": "SEAGRAM"
+  },
+  {
+    "supplierCode": "6226",
+    "supplierName": "GRANTS OF ST.JAMES"
+  },
+  {
+    "supplierCode": "6248",
+    "supplierName": "TELCHER BROS"
+  },
+  {
+    "supplierCode": "6259",
+    "supplierName": "H SICHEL + SONS LTD"
+  },
+  {
+    "supplierCode": "6260",
+    "supplierName": "WOOLEY DUVAL & BEAUFOYS"
+  },
+  {
+    "supplierCode": "6292",
+    "supplierName": "VINE PRODUCTS"
+  },
+  {
+    "supplierCode": "6300",
+    "supplierName": "CODORNIU LTD"
+  },
+  {
+    "supplierCode": "631",
+    "supplierName": "BRUNEL"
+  },
+  {
+    "supplierCode": "6311",
+    "supplierName": "WILLIAM GRANTS"
+  },
+  {
+    "supplierCode": "6322",
+    "supplierName": "BENSONS CRISP"
+  },
+  {
+    "supplierCode": "6333",
+    "supplierName": "DANEPAK"
+  },
+  {
+    "supplierCode": "6344",
+    "supplierName": "BELBOIR"
+  },
+  {
+    "supplierCode": "6355",
+    "supplierName": "FRANF MAN.UK"
+  },
+  {
+    "supplierCode": "6366",
+    "supplierName": "B.F.C."
+  },
+  {
+    "supplierCode": "6377",
+    "supplierName": "DISPLAY CRAFT"
+  },
+  {
+    "supplierCode": "6388",
+    "supplierName": "J.E.ENGLAND FOODS"
+  },
+  {
+    "supplierCode": "6399",
+    "supplierName": "HEARN FOODS"
+  },
+  {
+    "supplierCode": "6418",
+    "supplierName": "SPAR UK LTD DIRECT 118"
+  },
+  {
+    "supplierCode": "642",
+    "supplierName": "BROOKE BOND"
+  },
+  {
+    "supplierCode": "6429",
+    "supplierName": "TIGER TIM"
+  },
+  {
+    "supplierCode": "6430",
+    "supplierName": "AMALGAMATED FOODS"
+  },
+  {
+    "supplierCode": "6440",
+    "supplierName": "BARTON INTERNATIONAL"
+  },
+  {
+    "supplierCode": "6451",
+    "supplierName": "SKIPINGDALE"
+  },
+  {
+    "supplierCode": "6462",
+    "supplierName": "CLAN DESIGNS"
+  },
+  {
+    "supplierCode": "6473",
+    "supplierName": "TROFARTH IND"
+  },
+  {
+    "supplierCode": "6484",
+    "supplierName": "STAP.DAIRY MARK"
+  },
+  {
+    "supplierCode": "6495",
+    "supplierName": "MORNING FOODS"
+  },
+  {
+    "supplierCode": "6503",
+    "supplierName": "SMITH&ANDERSON"
+  },
+  {
+    "supplierCode": "6514",
+    "supplierName": "FESTIVAL PR"
+  },
+  {
+    "supplierCode": "6525",
+    "supplierName": "KAMNS"
+  },
+  {
+    "supplierCode": "653",
+    "supplierName": "BONDUELLE"
+  },
+  {
+    "supplierCode": "6536",
+    "supplierName": "LEON &FRENKEL"
+  },
+  {
+    "supplierCode": "6547",
+    "supplierName": "PURA FOODS"
+  },
+  {
+    "supplierCode": "6558",
+    "supplierName": "GERBER FOODS"
+  },
+  {
+    "supplierCode": "6569",
+    "supplierName": "CHAMBOURCY"
+  },
+  {
+    "supplierCode": "6580",
+    "supplierName": "D&S FOODS"
+  },
+  {
+    "supplierCode": "6591",
+    "supplierName": "NICHOLAS LABS"
+  },
+  {
+    "supplierCode": "66",
+    "supplierName": "LANE FOODS"
+  },
+  {
+    "supplierCode": "6600",
+    "supplierName": "DENWOOD DISTRUBUTION."
+  },
+  {
+    "supplierCode": "6610",
+    "supplierName": "CALYPSO DRINK"
+  },
+  {
+    "supplierCode": "6621",
+    "supplierName": "BRISTOL MYERS"
+  },
+  {
+    "supplierCode": "6632",
+    "supplierName": "MERRITTS"
+  },
+  {
+    "supplierCode": "664",
+    "supplierName": "BUSS FARM LTD"
+  },
+  {
+    "supplierCode": "6643",
+    "supplierName": "CAPPER & CO."
+  },
+  {
+    "supplierCode": "6654",
+    "supplierName": "MARLING SALES"
+  },
+  {
+    "supplierCode": "6665",
+    "supplierName": "AVERY LABEL"
+  },
+  {
+    "supplierCode": "6676",
+    "supplierName": "A.D.ASSEMBLIES"
+  },
+  {
+    "supplierCode": "6687",
+    "supplierName": "READ WOODROW"
+  },
+  {
+    "supplierCode": "6698",
+    "supplierName": "DUERR"
+  },
+  {
+    "supplierCode": "6706",
+    "supplierName": "S.H.S.SALES"
+  },
+  {
+    "supplierCode": "6717",
+    "supplierName": "RUSSELL M."
+  },
+  {
+    "supplierCode": "6728",
+    "supplierName": "AYLESBURY FOODS"
+  },
+  {
+    "supplierCode": "6739",
+    "supplierName": "L'OREAL"
+  },
+  {
+    "supplierCode": "6740",
+    "supplierName": "DALOON"
+  },
+  {
+    "supplierCode": "675",
+    "supplierName": "A.G.BARR"
+  },
+  {
+    "supplierCode": "6750",
+    "supplierName": "GARDAVINI"
+  },
+  {
+    "supplierCode": "6761",
+    "supplierName": "NEIL FORSYTH ASSOCIATES"
+  },
+  {
+    "supplierCode": "6772",
+    "supplierName": "FOX'S BISCS"
+  },
+  {
+    "supplierCode": "6783",
+    "supplierName": "ABBEY CAKES"
+  },
+  {
+    "supplierCode": "6794",
+    "supplierName": "FRANKS"
+  },
+  {
+    "supplierCode": "6802",
+    "supplierName": "WESTERN CHEESE"
+  },
+  {
+    "supplierCode": "6813",
+    "supplierName": "R.H.THOMPSON"
+  },
+  {
+    "supplierCode": "6824",
+    "supplierName": "ELKS BISCUITS"
+  },
+  {
+    "supplierCode": "6835",
+    "supplierName": "COURTINA"
+  },
+  {
+    "supplierCode": "6846",
+    "supplierName": "PR.MASTER LTD"
+  },
+  {
+    "supplierCode": "6857",
+    "supplierName": "FRO-CUT"
+  },
+  {
+    "supplierCode": "686",
+    "supplierName": "CPC LTD"
+  },
+  {
+    "supplierCode": "6868",
+    "supplierName": "AVALON STUART"
+  },
+  {
+    "supplierCode": "6879",
+    "supplierName": "PELLS CONFECTIONERY"
+  },
+  {
+    "supplierCode": "6890",
+    "supplierName": "CHINHAM INTERNATIONAL"
+  },
+  {
+    "supplierCode": "697",
+    "supplierName": "ANDREW BUCHANAN+SONS LTD"
+  },
+  {
+    "supplierCode": "705",
+    "supplierName": "J.THAYER & SON."
+  },
+  {
+    "supplierCode": "716",
+    "supplierName": "BULMERS LTD"
+  },
+  {
+    "supplierCode": "727",
+    "supplierName": "BUKO WIRE GOODS LTD.,"
+  },
+  {
+    "supplierCode": "738",
+    "supplierName": "B+DOBSON"
+  },
+  {
+    "supplierCode": "749",
+    "supplierName": "ANCHOR"
+  },
+  {
+    "supplierCode": "750",
+    "supplierName": "K.J.LOVERING"
+  },
+  {
+    "supplierCode": "760",
+    "supplierName": "RYVITA"
+  },
+  {
+    "supplierCode": "77",
+    "supplierName": "T. TUNNOCK"
+  },
+  {
+    "supplierCode": "771",
+    "supplierName": "BURTONS BISCUITS"
+  },
+  {
+    "supplierCode": "7777",
+    "supplierName": "TEATOTAL LTD."
+  },
+  {
+    "supplierCode": "782",
+    "supplierName": "P. MEYEIR"
+  },
+  {
+    "supplierCode": "793",
+    "supplierName": "S.A.BRAIN+CO"
+  },
+  {
+    "supplierCode": "8005",
+    "supplierName": "HILLSDOWN"
+  },
+  {
+    "supplierCode": "801",
+    "supplierName": "PREMIER BRAND"
+  },
+  {
+    "supplierCode": "8016",
+    "supplierName": "MARS ADVENT"
+  },
+  {
+    "supplierCode": "8027",
+    "supplierName": "DAIRY CREST"
+  },
+  {
+    "supplierCode": "8038",
+    "supplierName": "UNIGATE LTD"
+  },
+  {
+    "supplierCode": "8049",
+    "supplierName": "A.P.BURT&SON"
+  },
+  {
+    "supplierCode": "8050",
+    "supplierName": "MEDYNA"
+  },
+  {
+    "supplierCode": "8060",
+    "supplierName": "ANGLIA CANNERS LIMITED"
+  },
+  {
+    "supplierCode": "8071",
+    "supplierName": "A.WANDER LTD"
+  },
+  {
+    "supplierCode": "8082",
+    "supplierName": "CAPPER + CO LTD"
+  },
+  {
+    "supplierCode": "8093",
+    "supplierName": "CROSSE PAPERWARE LTD."
+  },
+  {
+    "supplierCode": "8101",
+    "supplierName": "T.K.M.FOODS LTD.,"
+  },
+  {
+    "supplierCode": "8112",
+    "supplierName": "MANSFIELD"
+  },
+  {
+    "supplierCode": "812",
+    "supplierName": "CAD"
+  },
+  {
+    "supplierCode": "8123",
+    "supplierName": "SUNFRESH LTD"
+  },
+  {
+    "supplierCode": "8134",
+    "supplierName": "TREAT LTD"
+  },
+  {
+    "supplierCode": "8145",
+    "supplierName": "H.P.SAUCE LTD.,"
+  },
+  {
+    "supplierCode": "8156",
+    "supplierName": "HP FOODS"
+  },
+  {
+    "supplierCode": "8167",
+    "supplierName": "DISPLAY CRFT"
+  },
+  {
+    "supplierCode": "8178",
+    "supplierName": "ROBERT HADDEN LIMITED"
+  },
+  {
+    "supplierCode": "8189",
+    "supplierName": "ROBINSON YOUNG"
+  },
+  {
+    "supplierCode": "8190",
+    "supplierName": "T.HAMMOND"
+  },
+  {
+    "supplierCode": "8208",
+    "supplierName": "GENERAL FOODS LTD"
+  },
+  {
+    "supplierCode": "8219",
+    "supplierName": "NELSON PACK"
+  },
+  {
+    "supplierCode": "8220",
+    "supplierName": "NELSON  PACK"
+  },
+  {
+    "supplierCode": "823",
+    "supplierName": "COPAK DRINKS"
+  },
+  {
+    "supplierCode": "8230",
+    "supplierName": "NICHOL BEAUTY"
+  },
+  {
+    "supplierCode": "8241",
+    "supplierName": "OMEGA LAMP"
+  },
+  {
+    "supplierCode": "8252",
+    "supplierName": "ROSS POULTRY"
+  },
+  {
+    "supplierCode": "8263",
+    "supplierName": "SPILLERS LTD"
+  },
+  {
+    "supplierCode": "8274",
+    "supplierName": "SPAR UK LTD"
+  },
+  {
+    "supplierCode": "8285",
+    "supplierName": "SAMACO LTD"
+  },
+  {
+    "supplierCode": "8296",
+    "supplierName": "SNAKPAK FOOD PRODUCTS"
+  },
+  {
+    "supplierCode": "8304",
+    "supplierName": "SMEDLEYS LTD.,"
+  },
+  {
+    "supplierCode": "8315",
+    "supplierName": "H P BULMERS"
+  },
+  {
+    "supplierCode": "8326",
+    "supplierName": "TETLEY TEA CO LTD"
+  },
+  {
+    "supplierCode": "8337",
+    "supplierName": "BATCHELORS LTD.,"
+  },
+  {
+    "supplierCode": "834",
+    "supplierName": "SARA-LEE LTD"
+  },
+  {
+    "supplierCode": "8348",
+    "supplierName": "GOLDEN WONDER"
+  },
+  {
+    "supplierCode": "8359",
+    "supplierName": "BRITISH PEPPER + SPICES"
+  },
+  {
+    "supplierCode": "8360",
+    "supplierName": "R.WARBURTON LTD.,"
+  },
+  {
+    "supplierCode": "8370",
+    "supplierName": "RON WOOD CARDS"
+  },
+  {
+    "supplierCode": "8381",
+    "supplierName": "ALBRIGHT+WILSON"
+  },
+  {
+    "supplierCode": "8392",
+    "supplierName": "NABISCO"
+  },
+  {
+    "supplierCode": "8400",
+    "supplierName": "BARD BROS LTD"
+  },
+  {
+    "supplierCode": "8411",
+    "supplierName": "BASSETT + CO"
+  },
+  {
+    "supplierCode": "8422",
+    "supplierName": "DORSET FOODS"
+  },
+  {
+    "supplierCode": "8433",
+    "supplierName": "BARD BROS"
+  },
+  {
+    "supplierCode": "8444",
+    "supplierName": "BRIT V'GARS"
+  },
+  {
+    "supplierCode": "845",
+    "supplierName": "CAMPBELLS S'PS"
+  },
+  {
+    "supplierCode": "8455",
+    "supplierName": "BARD BROS. LTD."
+  },
+  {
+    "supplierCode": "8466",
+    "supplierName": "BOOTS LTD."
+  },
+  {
+    "supplierCode": "8477",
+    "supplierName": "SCOTFRESH"
+  },
+  {
+    "supplierCode": "8488",
+    "supplierName": "CAPITOL WINES + TRAVERS"
+  },
+  {
+    "supplierCode": "8499",
+    "supplierName": "TIGER TIN PRODUCTS LTD"
+  },
+  {
+    "supplierCode": "8507",
+    "supplierName": "MANLEY RAT"
+  },
+  {
+    "supplierCode": "8518",
+    "supplierName": "SILVER SPRING,"
+  },
+  {
+    "supplierCode": "8529",
+    "supplierName": "TIGER TIM"
+  },
+  {
+    "supplierCode": "8530",
+    "supplierName": "UNIGATE FOODS"
+  },
+  {
+    "supplierCode": "8540",
+    "supplierName": "BRYANT AND MAY"
+  },
+  {
+    "supplierCode": "8551",
+    "supplierName": "ALLIED BREWERS LTD"
+  },
+  {
+    "supplierCode": "856",
+    "supplierName": "COUNTRY STYLE"
+  },
+  {
+    "supplierCode": "8562",
+    "supplierName": "LEDBURY PRES.LTD"
+  },
+  {
+    "supplierCode": "8573",
+    "supplierName": "GLENGETTIE"
+  },
+  {
+    "supplierCode": "8584",
+    "supplierName": "D.P.P. LTD"
+  },
+  {
+    "supplierCode": "8595",
+    "supplierName": "DAIRY PRODUCE PACKERS"
+  },
+  {
+    "supplierCode": "8603",
+    "supplierName": "MERSEYSIDE FOODS LTD.,"
+  },
+  {
+    "supplierCode": "8614",
+    "supplierName": "MITCHELSTOWN CREAMERIES"
+  },
+  {
+    "supplierCode": "8625",
+    "supplierName": "JEYES LTD"
+  },
+  {
+    "supplierCode": "8636",
+    "supplierName": "JEYES UK LTD.,"
+  },
+  {
+    "supplierCode": "8647",
+    "supplierName": "GLENGETTIE"
+  },
+  {
+    "supplierCode": "8658",
+    "supplierName": "GONZALEZ BYASS UK LTD"
+  },
+  {
+    "supplierCode": "8669",
+    "supplierName": "PICKERING FOODS LTD.,"
+  },
+  {
+    "supplierCode": "867",
+    "supplierName": "NESTLE"
+  },
+  {
+    "supplierCode": "8670",
+    "supplierName": "ITALUINI"
+  },
+  {
+    "supplierCode": "8680",
+    "supplierName": "WIRRAL FOODS"
+  },
+  {
+    "supplierCode": "8691",
+    "supplierName": "ROBINSONS + SONS LTD"
+  },
+  {
+    "supplierCode": "8700",
+    "supplierName": "M.PHILLIPS LTD"
+  },
+  {
+    "supplierCode": "8710",
+    "supplierName": "M PHILLIPS LTD(TIGHTS)"
+  },
+  {
+    "supplierCode": "8721",
+    "supplierName": "SPILLERS LTD.,"
+  },
+  {
+    "supplierCode": "8732",
+    "supplierName": "SPAR TWEED VALLEY"
+  },
+  {
+    "supplierCode": "8743",
+    "supplierName": "H.WESTON"
+  },
+  {
+    "supplierCode": "8754",
+    "supplierName": "HAVEN FOODS"
+  },
+  {
+    "supplierCode": "8765",
+    "supplierName": "HILLSDOWN"
+  },
+  {
+    "supplierCode": "8776",
+    "supplierName": "L'SHIRE DAIRY"
+  },
+  {
+    "supplierCode": "878",
+    "supplierName": "H.SICHEL+SONS"
+  },
+  {
+    "supplierCode": "8787",
+    "supplierName": "BRI.ALCAN"
+  },
+  {
+    "supplierCode": "8798",
+    "supplierName": "TOPFROST"
+  },
+  {
+    "supplierCode": "88",
+    "supplierName": "ADAMS FOODS"
+  },
+  {
+    "supplierCode": "8806",
+    "supplierName": "BOWATER SCOTT LTD"
+  },
+  {
+    "supplierCode": "8817",
+    "supplierName": "VAN DER LAAN"
+  },
+  {
+    "supplierCode": "8828",
+    "supplierName": "K.P"
+  },
+  {
+    "supplierCode": "8839",
+    "supplierName": "VAN DER LAAN LTD"
+  },
+  {
+    "supplierCode": "8840",
+    "supplierName": "SOL TENCO LTD"
+  },
+  {
+    "supplierCode": "8850",
+    "supplierName": "SMITHS"
+  },
+  {
+    "supplierCode": "8861",
+    "supplierName": "PRIVATE LABEL SERVICES"
+  },
+  {
+    "supplierCode": "8872",
+    "supplierName": "LYONS BISCS"
+  },
+  {
+    "supplierCode": "8883",
+    "supplierName": "WHITWORTHS (HOLDINGS) LTD"
+  },
+  {
+    "supplierCode": "889",
+    "supplierName": "PREMIER BRANDS UK LTD."
+  },
+  {
+    "supplierCode": "8894",
+    "supplierName": "WHITWORTH HOLDING LTD"
+  },
+  {
+    "supplierCode": "890",
+    "supplierName": "CAPITOL WINES LTD"
+  },
+  {
+    "supplierCode": "8902",
+    "supplierName": "WOOLLEY DUVAL&BEAUFOYSLTD"
+  },
+  {
+    "supplierCode": "8913",
+    "supplierName": "VINE PRODUCTS"
+  },
+  {
+    "supplierCode": "8924",
+    "supplierName": "COLEMAN & CO LTD"
+  },
+  {
+    "supplierCode": "8935",
+    "supplierName": "ORBIT MEATS LTD."
+  },
+  {
+    "supplierCode": "8946",
+    "supplierName": "O.P.CHOCOLATES LTD.,"
+  },
+  {
+    "supplierCode": "8957",
+    "supplierName": "INDEPENDENT SHERR\/IMPORT"
+  },
+  {
+    "supplierCode": "8968",
+    "supplierName": "PRIVATE LABEL SERVICES"
+  },
+  {
+    "supplierCode": "8979",
+    "supplierName": "WHITEWAYS OF WIMPLE"
+  },
+  {
+    "supplierCode": "8980",
+    "supplierName": "HILLSDOWN"
+  },
+  {
+    "supplierCode": "8990",
+    "supplierName": "CARTERS LTD"
+  },
+  {
+    "supplierCode": "9018",
+    "supplierName": "PURE LARD CO"
+  },
+  {
+    "supplierCode": "9029",
+    "supplierName": "OWN LABEL MARKETING LTD"
+  },
+  {
+    "supplierCode": "9030",
+    "supplierName": "SIBBALD SALES"
+  },
+  {
+    "supplierCode": "9040",
+    "supplierName": "SUPERIOR GRAPHICS"
+  },
+  {
+    "supplierCode": "9051",
+    "supplierName": "ELGIN CANNERS"
+  },
+  {
+    "supplierCode": "9062",
+    "supplierName": "G.MORTON"
+  },
+  {
+    "supplierCode": "9073",
+    "supplierName": "THOMAS CORK"
+  },
+  {
+    "supplierCode": "908",
+    "supplierName": "ROTHMANS LTD"
+  },
+  {
+    "supplierCode": "9084",
+    "supplierName": "LULLABY PROD"
+  },
+  {
+    "supplierCode": "919",
+    "supplierName": "CARTERS DRINKS"
+  },
+  {
+    "supplierCode": "920",
+    "supplierName": "CELEBRITY"
+  },
+  {
+    "supplierCode": "930",
+    "supplierName": "F+NAMES"
+  },
+  {
+    "supplierCode": "9306",
+    "supplierName": "NEEDLER AND BATGER"
+  },
+  {
+    "supplierCode": "939271",
+    "supplierName": "Bilbeck Merchants Ltd"
+  },
+  {
+    "supplierCode": "941",
+    "supplierName": "CAMILLE SIMON"
+  },
+  {
+    "supplierCode": "942931",
+    "supplierName": "Custom Group Limited"
+  },
+  {
+    "supplierCode": "950831",
+    "supplierName": "Gafbros Ltd"
+  },
+  {
+    "supplierCode": "952",
+    "supplierName": "LIQUID CRYSTAL DEVICES"
+  },
+  {
+    "supplierCode": "9605",
+    "supplierName": "WOLLNER CO"
+  },
+  {
+    "supplierCode": "9616",
+    "supplierName": "WATNEY MANN"
+  },
+  {
+    "supplierCode": "9627",
+    "supplierName": "COLLEGE CRACKER CO"
+  },
+  {
+    "supplierCode": "963",
+    "supplierName": "MANOR BAKERIES"
+  },
+  {
+    "supplierCode": "9638",
+    "supplierName": "BRIDGE FARM DAIRIES"
+  },
+  {
+    "supplierCode": "9649",
+    "supplierName": "O P CHOCOLATES LTD"
+  },
+  {
+    "supplierCode": "9660",
+    "supplierName": "HATTING BAGERI"
+  },
+  {
+    "supplierCode": "9671",
+    "supplierName": "CAVENHAM CONFECTIONERY"
+  },
+  {
+    "supplierCode": "9682",
+    "supplierName": "PREMIER FOOD"
+  },
+  {
+    "supplierCode": "9693",
+    "supplierName": "TREFARTH IND"
+  },
+  {
+    "supplierCode": "9701",
+    "supplierName": "FABERGE"
+  },
+  {
+    "supplierCode": "9712",
+    "supplierName": "MCBRIDES"
+  },
+  {
+    "supplierCode": "9723",
+    "supplierName": "BERKSHIRE FOOD"
+  },
+  {
+    "supplierCode": "9734",
+    "supplierName": "TERRYS"
+  },
+  {
+    "supplierCode": "974",
+    "supplierName": "COOL COUNTRY"
+  },
+  {
+    "supplierCode": "9745",
+    "supplierName": "PUREDRIVE FOODS"
+  },
+  {
+    "supplierCode": "9756",
+    "supplierName": "CROOKES PRODUCTS LTD"
+  },
+  {
+    "supplierCode": "9767",
+    "supplierName": "PRINCES"
+  },
+  {
+    "supplierCode": "9778",
+    "supplierName": "Coca Cola"
+  },
+  {
+    "supplierCode": "9789",
+    "supplierName": "ARTHUR BELL"
+  },
+  {
+    "supplierCode": "9790",
+    "supplierName": "EDEN VALE LTD"
+  },
+  {
+    "supplierCode": "9808",
+    "supplierName": "CAPITAL FOODS"
+  },
+  {
+    "supplierCode": "9819",
+    "supplierName": "WESTERN FRESH PRODUCTS"
+  },
+  {
+    "supplierCode": "9830",
+    "supplierName": "R\/KITT SH\/CARE"
+  },
+  {
+    "supplierCode": "9841",
+    "supplierName": "R\/KITTS P\/CEUT"
+  },
+  {
+    "supplierCode": "985",
+    "supplierName": "MACRAE"
+  },
+  {
+    "supplierCode": "9852",
+    "supplierName": "SOONER SNACKS"
+  },
+  {
+    "supplierCode": "985281",
+    "supplierName": "Millar West"
+  },
+  {
+    "supplierCode": "9863",
+    "supplierName": "D.E.P. LTD"
+  },
+  {
+    "supplierCode": "9874",
+    "supplierName": "D. BROWN"
+  },
+  {
+    "supplierCode": "9876",
+    "supplierName": "Westons Cider"
+  },
+  {
+    "supplierCode": "9885",
+    "supplierName": "P\/FIELD PAPER"
+  },
+  {
+    "supplierCode": "988821",
+    "supplierName": "Numatic International Limited"
+  },
+  {
+    "supplierCode": "9896",
+    "supplierName": "R.MCBRIDE"
+  },
+  {
+    "supplierCode": "99",
+    "supplierName": "TOP HAT"
+  },
+  {
+    "supplierCode": "9904",
+    "supplierName": "LYONS MAID"
+  },
+  {
+    "supplierCode": "9915",
+    "supplierName": "PRODUCT CONN"
+  },
+  {
+    "supplierCode": "991681",
+    "supplierName": "A1 Paper PLC"
+  },
+  {
+    "supplierCode": "991682",
+    "supplierName": "A1 Paper PLC (Plastic section)"
+  },
+  {
+    "supplierCode": "9926",
+    "supplierName": "WATERFORD FOODS"
+  },
+  {
+    "supplierCode": "9937",
+    "supplierName": "MOET\/CHANDON"
+  },
+  {
+    "supplierCode": "9948",
+    "supplierName": "MATTESSONS LTD"
+  },
+  {
+    "supplierCode": "9959",
+    "supplierName": "WILLIAMS CAKES"
+  },
+  {
+    "supplierCode": "996",
+    "supplierName": "PATERSON BRONTE"
+  },
+  {
+    "supplierCode": "9970",
+    "supplierName": "EPHESUS"
+  },
+  {
+    "supplierCode": "9981",
+    "supplierName": "MELTIS LTD"
+  },
+  {
+    "supplierCode": "9992",
+    "supplierName": "GOWER SPRING WATER CO"
+  },
+  {
+    "supplierCode": "99999",
+    "supplierName": "Confectionery Raw Materials"
+  },
+  {
+    "supplierCode": "A01",
+    "supplierName": "Transfer from A01 (stockport)"
+  },
+  {
+    "supplierCode": "AABL001",
+    "supplierName": "Kingsmill"
+  },
+  {
+    "supplierCode": "AABU001",
+    "supplierName": "Berberana"
+  },
+  {
+    "supplierCode": "AACA001",
+    "supplierName": "Ozmo"
+  },
+  {
+    "supplierCode": "AACC004",
+    "supplierName": "Simple"
+  },
+  {
+    "supplierCode": "AACC012",
+    "supplierName": "Freedom"
+  },
+  {
+    "supplierCode": "AACC014",
+    "supplierName": "Mega Soft"
+  },
+  {
+    "supplierCode": "AACD001",
+    "supplierName": "White Shock"
+  },
+  {
+    "supplierCode": "AACH001",
+    "supplierName": "Mandara Spa"
+  },
+  {
+    "supplierCode": "AACL001",
+    "supplierName": "The Jelly Bean Factory"
+  },
+  {
+    "supplierCode": "AACM001",
+    "supplierName": "Rolnik"
+  },
+  {
+    "supplierCode": "AACO001",
+    "supplierName": "Acorn Brewery"
+  },
+  {
+    "supplierCode": "AACO003",
+    "supplierName": "Acorn Dairy"
+  },
+  {
+    "supplierCode": "AADN001",
+    "supplierName": "Adnams"
+  },
+  {
+    "supplierCode": "AAER001",
+    "supplierName": "Rodda's"
+  },
+  {
+    "supplierCode": "AAGN001",
+    "supplierName": "Audrey Wilkinson"
+  },
+  {
+    "supplierCode": "AAIN001",
+    "supplierName": "Aine"
+  },
+  {
+    "supplierCode": "AALA002",
+    "supplierName": "Alara"
+  },
+  {
+    "supplierCode": "AALL009",
+    "supplierName": "Casserole"
+  },
+  {
+    "supplierCode": "AALL013",
+    "supplierName": "Vita Coco"
+  },
+  {
+    "supplierCode": "AALL038",
+    "supplierName": "Bionita"
+  },
+  {
+    "supplierCode": "AALP001",
+    "supplierName": "Alpro"
+  },
+  {
+    "supplierCode": "AALT003",
+    "supplierName": "Quinola Mothergrain"
+  },
+  {
+    "supplierCode": "AALV002",
+    "supplierName": "Lye Cross Farm"
+  },
+  {
+    "supplierCode": "AAMI002",
+    "supplierName": "Indus"
+  },
+  {
+    "supplierCode": "AAMY001",
+    "supplierName": "Amy's Kitchen"
+  },
+  {
+    "supplierCode": "AANG002",
+    "supplierName": "Fragata"
+  },
+  {
+    "supplierCode": "AANG014",
+    "supplierName": "Angove Family Winemakers"
+  },
+  {
+    "supplierCode": "AANG017",
+    "supplierName": "Angelic Gluten Free"
+  },
+  {
+    "supplierCode": "AARC001",
+    "supplierName": ""
+  },
+  {
+    "supplierCode": "AARK001",
+    "supplierName": "Arkell\"s"
+  },
+  {
+    "supplierCode": "AARL003",
+    "supplierName": "Apetina"
+  },
+  {
+    "supplierCode": "AARL004",
+    "supplierName": "Arla"
+  },
+  {
+    "supplierCode": "AARL005",
+    "supplierName": "Arla"
+  },
+  {
+    "supplierCode": "AARL010",
+    "supplierName": "Lurpak®"
+  },
+  {
+    "supplierCode": "AARL011",
+    "supplierName": "Anchor"
+  },
+  {
+    "supplierCode": "AARM002",
+    "supplierName": "Doyles"
+  },
+  {
+    "supplierCode": "AARS001",
+    "supplierName": "Neufchâtel "
+  },
+  {
+    "supplierCode": "AART017",
+    "supplierName": "Arthurstown Brewing Co."
+  },
+  {
+    "supplierCode": "AASP001",
+    "supplierName": "Waddlegoose"
+  },
+  {
+    "supplierCode": "AAST003",
+    "supplierName": "Astonish"
+  },
+  {
+    "supplierCode": "AAUK001",
+    "supplierName": "Mavrodaphne of Patras"
+  },
+  {
+    "supplierCode": "AAWA001",
+    "supplierName": "Tim Adams"
+  },
+  {
+    "supplierCode": "AAWI001",
+    "supplierName": "Chateau Fonréaud"
+  },
+  {
+    "supplierCode": "ABAK005",
+    "supplierName": "Bakery on Main"
+  },
+  {
+    "supplierCode": "ABAK008",
+    "supplierName": "Cadbury"
+  },
+  {
+    "supplierCode": "ABAK027",
+    "supplierName": "Bakedin"
+  },
+  {
+    "supplierCode": "ABAL004",
+    "supplierName": "Balconi"
+  },
+  {
+    "supplierCode": "ABAR001",
+    "supplierName": "Rubicon"
+  },
+  {
+    "supplierCode": "ABAR002",
+    "supplierName": "Barry's Tea"
+  },
+  {
+    "supplierCode": "ABAR009",
+    "supplierName": "Killarney Brewing Company"
+  },
+  {
+    "supplierCode": "ABAS001",
+    "supplierName": "Franciscan Well"
+  },
+  {
+    "supplierCode": "ABAT002",
+    "supplierName": "Batchelors"
+  },
+  {
+    "supplierCode": "ABAX001",
+    "supplierName": "Fray Bentos"
+  },
+  {
+    "supplierCode": "ABAY004",
+    "supplierName": "Bays"
+  },
+  {
+    "supplierCode": "ABEE005",
+    "supplierName": "Ridgeway"
+  },
+  {
+    "supplierCode": "ABEI001",
+    "supplierName": "NIVEA®"
+  },
+  {
+    "supplierCode": "ABEI008",
+    "supplierName": "Elastoplast"
+  },
+  {
+    "supplierCode": "ABEL003",
+    "supplierName": "We Love Cake"
+  },
+  {
+    "supplierCode": "ABEN001",
+    "supplierName": "Riesen"
+  },
+  {
+    "supplierCode": "ABEN014",
+    "supplierName": "Benecol"
+  },
+  {
+    "supplierCode": "ABER002",
+    "supplierName": "Bernard Matthews"
+  },
+  {
+    "supplierCode": "ABER007",
+    "supplierName": "The Cake Crew"
+  },
+  {
+    "supplierCode": "ABEU001",
+    "supplierName": "The Laughing Cow"
+  },
+  {
+    "supplierCode": "ABEW001",
+    "supplierName": "Birds Eye"
+  },
+  {
+    "supplierCode": "ABFF001",
+    "supplierName": "Belvoir Fruit Farms"
+  },
+  {
+    "supplierCode": "ABFR001",
+    "supplierName": "BFree"
+  },
+  {
+    "supplierCode": "ABIC001",
+    "supplierName": "BIC"
+  },
+  {
+    "supplierCode": "ABIG009",
+    "supplierName": "Big Oz"
+  },
+  {
+    "supplierCode": "ABIO006",
+    "supplierName": "Attitude"
+  },
+  {
+    "supplierCode": "ABLU015",
+    "supplierName": "Hindleap"
+  },
+  {
+    "supplierCode": "ABMA001",
+    "supplierName": "Baileys of Glenrowan"
+  },
+  {
+    "supplierCode": "ABOD021",
+    "supplierName": ""
+  },
+  {
+    "supplierCode": "ABON001",
+    "supplierName": "Saint Agur"
+  },
+  {
+    "supplierCode": "ABON018",
+    "supplierName": "Riso Vignola"
+  },
+  {
+    "supplierCode": "ABOO004",
+    "supplierName": "Booja-Booja"
+  },
+  {
+    "supplierCode": "ABOS001",
+    "supplierName": "Millions"
+  },
+  {
+    "supplierCode": "ABRA006",
+    "supplierName": "Famille Castel"
+  },
+  {
+    "supplierCode": "ABRA007",
+    "supplierName": "Brace's"
+  },
+  {
+    "supplierCode": "ABRE003",
+    "supplierName": "Brewdog"
+  },
+  {
+    "supplierCode": "ABRI002",
+    "supplierName": "Britvic"
+  },
+  {
+    "supplierCode": "ABRI003",
+    "supplierName": "Ortiz"
+  },
+  {
+    "supplierCode": "ABRI004",
+    "supplierName": "Stivy's"
+  },
+  {
+    "supplierCode": "ABRI008",
+    "supplierName": "Les Brioches"
+  },
+  {
+    "supplierCode": "ABRM001",
+    "supplierName": "Gallo"
+  },
+  {
+    "supplierCode": "ABRO013",
+    "supplierName": "The Vintner"
+  },
+  {
+    "supplierCode": "ABRO025",
+    "supplierName": "Brompton House"
+  },
+  {
+    "supplierCode": "ABUC002",
+    "supplierName": "Valencia"
+  },
+  {
+    "supplierCode": "ABUR001",
+    "supplierName": "Cadbury"
+  },
+  {
+    "supplierCode": "ABUT003",
+    "supplierName": "Butcombe Brewery"
+  },
+  {
+    "supplierCode": "ABVG001",
+    "supplierName": "Homecook"
+  },
+  {
+    "supplierCode": "ABWC001",
+    "supplierName": "Georges Dubuf"
+  },
+  {
+    "supplierCode": "ABWF001",
+    "supplierName": "Brita"
+  },
+  {
+    "supplierCode": "ACAD001",
+    "supplierName": "Terry's"
+  },
+  {
+    "supplierCode": "ACAM001",
+    "supplierName": "Yazoo"
+  },
+  {
+    "supplierCode": "ACAN067",
+    "supplierName": "Morrisons"
+  },
+  {
+    "supplierCode": "ACAR001",
+    "supplierName": "Carlsberg"
+  },
+  {
+    "supplierCode": "ACAS009",
+    "supplierName": "San Pedro"
+  },
+  {
+    "supplierCode": "ACAS013",
+    "supplierName": "Sunny South"
+  },
+  {
+    "supplierCode": "ACAT002",
+    "supplierName": "Caterers Pride"
+  },
+  {
+    "supplierCode": "ACEL001",
+    "supplierName": "Les Dauphins"
+  },
+  {
+    "supplierCode": "ACES009",
+    "supplierName": "Medusa"
+  },
+  {
+    "supplierCode": "ACEU001",
+    "supplierName": "Bonne Maman"
+  },
+  {
+    "supplierCode": "ACFI001",
+    "supplierName": "Baker Street"
+  },
+  {
+    "supplierCode": "ACHA009",
+    "supplierName": "Chateau"
+  },
+  {
+    "supplierCode": "ACHA017",
+    "supplierName": "Aroy-D"
+  },
+  {
+    "supplierCode": "ACHE001",
+    "supplierName": "Jungle Formula"
+  },
+  {
+    "supplierCode": "ACHE016",
+    "supplierName": "Cherry Blossom Bakery"
+  },
+  {
+    "supplierCode": "ACIT003",
+    "supplierName": "Vino Bianco"
+  },
+  {
+    "supplierCode": "ACLE002",
+    "supplierName": "Island Delight"
+  },
+  {
+    "supplierCode": "ACLO002",
+    "supplierName": "Clonakilty"
+  },
+  {
+    "supplierCode": "ACOC001",
+    "supplierName": "Monster"
+  },
+  {
+    "supplierCode": "ACON063",
+    "supplierName": "Medusa"
+  },
+  {
+    "supplierCode": "ACOO008",
+    "supplierName": "Cirio"
+  },
+  {
+    "supplierCode": "ACOS001",
+    "supplierName": "Cosmo's "
+  },
+  {
+    "supplierCode": "ACOT002",
+    "supplierName": "Rimmel"
+  },
+  {
+    "supplierCode": "ACOT026",
+    "supplierName": "Miss Sporty"
+  },
+  {
+    "supplierCode": "ACOU003",
+    "supplierName": "Hanley"
+  },
+  {
+    "supplierCode": "ACOW001",
+    "supplierName": "Conditorei Coppenrath & Wiese"
+  },
+  {
+    "supplierCode": "ACPL001",
+    "supplierName": "Colgate"
+  },
+  {
+    "supplierCode": "ACRO004",
+    "supplierName": "Butcher's Market"
+  },
+  {
+    "supplierCode": "ACUS001",
+    "supplierName": "Carex"
+  },
+  {
+    "supplierCode": "ADAM002",
+    "supplierName": "Taylor's"
+  },
+  {
+    "supplierCode": "ADAY001",
+    "supplierName": "Baronia"
+  },
+  {
+    "supplierCode": "ADAY002",
+    "supplierName": "Daylesford"
+  },
+  {
+    "supplierCode": "ADEN005",
+    "supplierName": "Denhay"
+  },
+  {
+    "supplierCode": "ADEU001",
+    "supplierName": "Douwe Egberts"
+  },
+  {
+    "supplierCode": "ADEU003",
+    "supplierName": "Kenco"
+  },
+  {
+    "supplierCode": "ADEW002",
+    "supplierName": "Dew Valley"
+  },
+  {
+    "supplierCode": "ADGR001",
+    "supplierName": "PrimaValley"
+  },
+  {
+    "supplierCode": "ADIR001",
+    "supplierName": "Lark Valley"
+  },
+  {
+    "supplierCode": "ADIS001",
+    "supplierName": "Santa Maria"
+  },
+  {
+    "supplierCode": "ADIV012",
+    "supplierName": "Less is Best"
+  },
+  {
+    "supplierCode": "ADOR014",
+    "supplierName": ""
+  },
+  {
+    "supplierCode": "ADOV002",
+    "supplierName": "Dovecote Park"
+  },
+  {
+    "supplierCode": "ADRA001",
+    "supplierName": "Dragonfly"
+  },
+  {
+    "supplierCode": "ADRO003",
+    "supplierName": "Dr. Oetker"
+  },
+  {
+    "supplierCode": "ADUN003",
+    "supplierName": "Green Pastures"
+  },
+  {
+    "supplierCode": "ADUN019",
+    "supplierName": "Gourmet"
+  },
+  {
+    "supplierCode": "ADVA001",
+    "supplierName": "Moy Park"
+  },
+  {
+    "supplierCode": "ADVA005",
+    "supplierName": "Moy Park"
+  },
+  {
+    "supplierCode": "ADYL001",
+    "supplierName": "Oust"
+  },
+  {
+    "supplierCode": "AEAS001",
+    "supplierName": "East End"
+  },
+  {
+    "supplierCode": "AEBF001",
+    "supplierName": "Helen Browning's"
+  },
+  {
+    "supplierCode": "AECO001",
+    "supplierName": "Ecover"
+  },
+  {
+    "supplierCode": "AEIR001",
+    "supplierName": "Sol"
+  },
+  {
+    "supplierCode": "AEMM002",
+    "supplierName": "Onken"
+  },
+  {
+    "supplierCode": "AENC001",
+    "supplierName": "Grace"
+  },
+  {
+    "supplierCode": "AEUR001",
+    "supplierName": "Barilla"
+  },
+  {
+    "supplierCode": "AEUR056",
+    "supplierName": "Chinese Emperor"
+  },
+  {
+    "supplierCode": "AEVL001",
+    "supplierName": "Volvic"
+  },
+  {
+    "supplierCode": "AEVL005",
+    "supplierName": "Evian"
+  },
+  {
+    "supplierCode": "AEXC003",
+    "supplierName": "Newforge"
+  },
+  {
+    "supplierCode": "AFAG002",
+    "supplierName": "Gills"
+  },
+  {
+    "supplierCode": "AFAL006",
+    "supplierName": "Falfish"
+  },
+  {
+    "supplierCode": "AFAR007",
+    "supplierName": "Bannisters' Farm"
+  },
+  {
+    "supplierCode": "AFAR010",
+    "supplierName": "Farmlea"
+  },
+  {
+    "supplierCode": "AFOR002",
+    "supplierName": "Deli Cuisine"
+  },
+  {
+    "supplierCode": "AFRE005",
+    "supplierName": "Marigold"
+  },
+  {
+    "supplierCode": "AFRI004",
+    "supplierName": "Winalot"
+  },
+  {
+    "supplierCode": "AFRO021",
+    "supplierName": "Regal"
+  },
+  {
+    "supplierCode": "AGEN002",
+    "supplierName": "Häagen-Dazs"
+  },
+  {
+    "supplierCode": "AGEN004",
+    "supplierName": "Old El Paso"
+  },
+  {
+    "supplierCode": "AGEN011",
+    "supplierName": "Ferrero"
+  },
+  {
+    "supplierCode": "AGER002",
+    "supplierName": "Leuchtenberg"
+  },
+  {
+    "supplierCode": "AGFI001",
+    "supplierName": "Cook Italian"
+  },
+  {
+    "supplierCode": "AGIF001",
+    "supplierName": "UpperCrust"
+  },
+  {
+    "supplierCode": "AGIF006",
+    "supplierName": "Goodfella's"
+  },
+  {
+    "supplierCode": "AGIL002",
+    "supplierName": "Gilbert's Kosher Foods"
+  },
+  {
+    "supplierCode": "AGLE007",
+    "supplierName": "The Great British Pudding Company"
+  },
+  {
+    "supplierCode": "AGLP001",
+    "supplierName": "Gressingham"
+  },
+  {
+    "supplierCode": "AGLP002",
+    "supplierName": "Gressingham"
+  },
+  {
+    "supplierCode": "AGOL007",
+    "supplierName": "Elsinore"
+  },
+  {
+    "supplierCode": "AGRE005",
+    "supplierName": "Green Isle"
+  },
+  {
+    "supplierCode": "AHAI001",
+    "supplierName": "Linda McCartney's"
+  },
+  {
+    "supplierCode": "AHEA007",
+    "supplierName": "Free & Easy"
+  },
+  {
+    "supplierCode": "AHEA016",
+    "supplierName": "Française de Gastronomie"
+  },
+  {
+    "supplierCode": "AHEI003",
+    "supplierName": "Heinz"
+  },
+  {
+    "supplierCode": "AHEI005",
+    "supplierName": "Weight Watchers from Heinz"
+  },
+  {
+    "supplierCode": "AHEI010",
+    "supplierName": "Ross"
+  },
+  {
+    "supplierCode": "AHJN001",
+    "supplierName": "Nolans"
+  },
+  {
+    "supplierCode": "AHQP001",
+    "supplierName": "Amoy"
+  },
+  {
+    "supplierCode": "AIBC001",
+    "supplierName": "Tiger Brand"
+  },
+  {
+    "supplierCode": "AICE002",
+    "supplierName": "Despicable Me"
+  },
+  {
+    "supplierCode": "AICE013",
+    "supplierName": "Ice Cream Union"
+  },
+  {
+    "supplierCode": "AIND001",
+    "supplierName": "Haldiram's"
+  },
+  {
+    "supplierCode": "AJAW002",
+    "supplierName": "Jawo "
+  },
+  {
+    "supplierCode": "AJFC001",
+    "supplierName": ""
+  },
+  {
+    "supplierCode": "AJOH004",
+    "supplierName": "John West"
+  },
+  {
+    "supplierCode": "AJOS003",
+    "supplierName": "Get Hooked"
+  },
+  {
+    "supplierCode": "AJQK001",
+    "supplierName": "Tiger Tiger"
+  },
+  {
+    "supplierCode": "AJUM001",
+    "supplierName": "Jumbo Importers"
+  },
+  {
+    "supplierCode": "AKAT001",
+    "supplierName": "Lisner"
+  },
+  {
+    "supplierCode": "AKER014",
+    "supplierName": "Kershaws"
+  },
+  {
+    "supplierCode": "AKER034",
+    "supplierName": "Sharwood's"
+  },
+  {
+    "supplierCode": "AKIN008",
+    "supplierName": "Peppa Pig"
+  },
+  {
+    "supplierCode": "AKTC001",
+    "supplierName": "KTC"
+  },
+  {
+    "supplierCode": "ALAP001",
+    "supplierName": "Parsons"
+  },
+  {
+    "supplierCode": "ALEA002",
+    "supplierName": "Merchant Gourmet"
+  },
+  {
+    "supplierCode": "ALIC001",
+    "supplierName": "Lick"
+  },
+  {
+    "supplierCode": "ALIN006",
+    "supplierName": "Linwoods"
+  },
+  {
+    "supplierCode": "ALON008",
+    "supplierName": "Candy Kittens"
+  },
+  {
+    "supplierCode": "ALT001",
+    "supplierName": "Alternative Supplier"
+  },
+  {
+    "supplierCode": "ALYO001",
+    "supplierName": "Fisherman"
+  },
+  {
+    "supplierCode": "AMAC013",
+    "supplierName": "Mackie's"
+  },
+  {
+    "supplierCode": "AMAR126",
+    "supplierName": "Marshfiled Farm "
+  },
+  {
+    "supplierCode": "AMAS001",
+    "supplierName": "MALTESERS®"
+  },
+  {
+    "supplierCode": "AMAS012",
+    "supplierName": "UNCLE BEN'S®"
+  },
+  {
+    "supplierCode": "AMAS014",
+    "supplierName": "SHEBA"
+  },
+  {
+    "supplierCode": "AMOO005",
+    "supplierName": "Osprio"
+  },
+  {
+    "supplierCode": "AMUL025",
+    "supplierName": "FRijj"
+  },
+  {
+    "supplierCode": "AMZ001",
+    "supplierName": "Amazon Furniture"
+  },
+  {
+    "supplierCode": "ANES014",
+    "supplierName": "Quality Street"
+  },
+  {
+    "supplierCode": "ANUT002",
+    "supplierName": "Schär "
+  },
+  {
+    "supplierCode": "AOCF001",
+    "supplierName": "Ocean Crown"
+  },
+  {
+    "supplierCode": "APAN015",
+    "supplierName": "Seafeast"
+  },
+  {
+    "supplierCode": "APAR046",
+    "supplierName": "Hooch"
+  },
+  {
+    "supplierCode": "APAT001",
+    "supplierName": "Blue Dragon"
+  },
+  {
+    "supplierCode": "APCL001",
+    "supplierName": "Webbox"
+  },
+  {
+    "supplierCode": "APET035",
+    "supplierName": "Barking Heads"
+  },
+  {
+    "supplierCode": "APPH001",
+    "supplierName": "Smak"
+  },
+  {
+    "supplierCode": "APRC001",
+    "supplierName": "Princes"
+  },
+  {
+    "supplierCode": "APRE001",
+    "supplierName": "Bird's"
+  },
+  {
+    "supplierCode": "APRE052",
+    "supplierName": "Ambrosia"
+  },
+  {
+    "supplierCode": "APRI001",
+    "supplierName": "Batchelors"
+  },
+  {
+    "supplierCode": "APWC001",
+    "supplierName": "Lee Kum Kee"
+  },
+  {
+    "supplierCode": "arc001",
+    "supplierName": "Arcoroc France"
+  },
+  {
+    "supplierCode": "ARED004",
+    "supplierName": "Red Bull"
+  },
+  {
+    "supplierCode": "ARIC001",
+    "supplierName": "Cadbury"
+  },
+  {
+    "supplierCode": "AROY005",
+    "supplierName": "Ice Cap"
+  },
+  {
+    "supplierCode": "ASEA004",
+    "supplierName": "Star of the Sea"
+  },
+  {
+    "supplierCode": "ASEL001",
+    "supplierName": "Chicago Town "
+  },
+  {
+    "supplierCode": "ASHA004",
+    "supplierName": "Shazans"
+  },
+  {
+    "supplierCode": "ASHE006",
+    "supplierName": "Shell Fish Ireland Fantail"
+  },
+  {
+    "supplierCode": "ASSM001",
+    "supplierName": "Scottish Shellfish"
+  },
+  {
+    "supplierCode": "ASUR002",
+    "supplierName": "Gino's"
+  },
+  {
+    "supplierCode": "ASWI002",
+    "supplierName": "Swift"
+  },
+  {
+    "supplierCode": "ATAS008",
+    "supplierName": "Tastesmiths"
+  },
+  {
+    "supplierCode": "ATAZ001",
+    "supplierName": "Yutaka"
+  },
+  {
+    "supplierCode": "ATHE027",
+    "supplierName": "Danfood"
+  },
+  {
+    "supplierCode": "ATHE044",
+    "supplierName": "The Big Prawn Co."
+  },
+  {
+    "supplierCode": "ATHE052",
+    "supplierName": "The Curry Sauce Co"
+  },
+  {
+    "supplierCode": "ATHE081",
+    "supplierName": "Casa Milo"
+  },
+  {
+    "supplierCode": "ATHE240",
+    "supplierName": "The Licktators"
+  },
+  {
+    "supplierCode": "ATHE308",
+    "supplierName": "The Yorkshire Meatball Co."
+  },
+  {
+    "supplierCode": "ATRS001",
+    "supplierName": "TRS"
+  },
+  {
+    "supplierCode": "ATRY001",
+    "supplierName": "Aunt Bessie's"
+  },
+  {
+    "supplierCode": "ATWI001",
+    "supplierName": "Twinings"
+  },
+  {
+    "supplierCode": "AUNI001",
+    "supplierName": "PG tips"
+  },
+  {
+    "supplierCode": "AVIO002",
+    "supplierName": "McGees"
+  },
+  {
+    "supplierCode": "AWAG001",
+    "supplierName": "Harringtons"
+  },
+  {
+    "supplierCode": "AWAN001",
+    "supplierName": "P.A.N."
+  },
+  {
+    "supplierCode": "AWIL002",
+    "supplierName": "Good Boy"
+  },
+  {
+    "supplierCode": "AWIN002",
+    "supplierName": "Unearthed"
+  },
+  {
+    "supplierCode": "AWIN003",
+    "supplierName": "Biona"
+  },
+  {
+    "supplierCode": "AWOR003",
+    "supplierName": "Dalla Costa"
+  },
+  {
+    "supplierCode": "AWOR004",
+    "supplierName": "Cofresh"
+  },
+  {
+    "supplierCode": "AWSF001",
+    "supplierName": "Tropicana"
+  },
+  {
+    "supplierCode": "AWTF001",
+    "supplierName": "Waitrose"
+  },
+  {
+    "supplierCode": "AZPO001",
+    "supplierName": "Milejów"
+  },
+  {
+    "supplierCode": "BAL001",
+    "supplierName": "Ballineen Fine Foods"
+  },
+  {
+    "supplierCode": "Bells Hill",
+    "supplierName": "Bells Hill"
+  },
+  {
+    "supplierCode": "BOBM",
+    "supplierName": "Bob Martin"
+  },
+  {
+    "supplierCode": "brownb",
+    "supplierName": "Brown Bros"
+  },
+  {
+    "supplierCode": "CC001",
+    "supplierName": "Country Cottage"
+  },
+  {
+    "supplierCode": "CH001",
+    "supplierName": "Chicken Manufacturer"
+  },
+  {
+    "supplierCode": "chu001",
+    "supplierName": "Churchill Crockery"
+  },
+  {
+    "supplierCode": "Crawley",
+    "supplierName": "Crawley Store"
+  },
+  {
+    "supplierCode": "Dairy",
+    "supplierName": "Bells hill"
+  },
+  {
+    "supplierCode": "FAK001",
+    "supplierName": "Fakebake Ltd"
+  },
+  {
+    "supplierCode": "FS001",
+    "supplierName": "Fish Manufacturer"
+  },
+  {
+    "supplierCode": "HARRIS",
+    "supplierName": "Harrisons Bird Foods"
+  },
+  {
+    "supplierCode": "HP0001",
+    "supplierName": "Hewlett Packard"
+  },
+  {
+    "supplierCode": "INTDEPA01",
+    "supplierName": "Stockport Depot"
+  },
+  {
+    "supplierCode": "INTDEPBRM",
+    "supplierName": "Inter Depot Transfers from BRM"
+  },
+  {
+    "supplierCode": "INTDEPMCR",
+    "supplierName": "Inter Depot Transfers from MCR"
+  },
+  {
+    "supplierCode": "Lev001",
+    "supplierName": "Diversey Lever"
+  },
+  {
+    "supplierCode": "LOX001",
+    "supplierName": "Princes Foods"
+  },
+  {
+    "supplierCode": "MASTFOOD",
+    "supplierName": "Masterfoods"
+  },
+  {
+    "supplierCode": "Meat01",
+    "supplierName": "Meat Company"
+  },
+  {
+    "supplierCode": "MIR001",
+    "supplierName": "Mira"
+  },
+  {
+    "supplierCode": "MOV001",
+    "supplierName": "Movenpick of Switzerland"
+  },
+  {
+    "supplierCode": "MS0001",
+    "supplierName": "Microsoft"
+  },
+  {
+    "supplierCode": "NESTPUR",
+    "supplierName": "Nestle Purina"
+  },
+  {
+    "supplierCode": "NEURO",
+    "supplierName": "Neuro Drinks"
+  },
+  {
+    "supplierCode": "ORG001",
+    "supplierName": "Hello Foods Limited"
+  },
+  {
+    "supplierCode": "PAN001",
+    "supplierName": "Pan Euro Foods"
+  },
+  {
+    "supplierCode": "PEP001",
+    "supplierName": "PepsiCo"
+  },
+  {
+    "supplierCode": "REP001",
+    "supplierName": "Gressingham Duck"
+  },
+  {
+    "supplierCode": "SAN001",
+    "supplierName": "Sandwich Filling Supplier"
+  },
+  {
+    "supplierCode": "SAN002",
+    "supplierName": "Sandwich Filling Supplier2"
+  },
+  {
+    "supplierCode": "SAN003",
+    "supplierName": "Sandwich Filling Supplier3"
+  },
+  {
+    "supplierCode": "SAN004",
+    "supplierName": "Sandwich Filling Supplier3"
+  },
+  {
+    "supplierCode": "SEW001",
+    "supplierName": "Sewing Kit Company"
+  },
+  {
+    "supplierCode": "Stockport",
+    "supplierName": "Stockport"
+  },
+  {
+    "supplierCode": "Supplier 1",
+    "supplierName": "Supplier 1"
+  },
+  {
+    "supplierCode": "Supplier 2",
+    "supplierName": "Supplier 2"
+  },
+  {
+    "supplierCode": "test",
+    "supplierName": ""
+  },
+  {
+    "supplierCode": "Transfer",
+    "supplierName": "Transfer from head office"
+  },
+  {
+    "supplierCode": "Warehouse",
+    "supplierName": "Main Warehouse"
+  },
+  {
+    "supplierCode": "WAX001",
+    "supplierName": "Wax-A-Way"
+  },
+  {
+    "supplierCode": "WEL001",
+    "supplierName": "Wella UK"
+  },
+  {
+    "supplierCode": "Winesupp",
+    "supplierName": "Winesupp"
+  }
+]

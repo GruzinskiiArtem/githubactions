@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Catalog\Model\Product">
+        <plugin name="accord_check_product_supplier_attribute" type="Accord\Suppliers\Plugin\Catalog\Product\CheckSupplier" sortOrder="1" disabled="false"/>
+    </type>
+
+    <type name="\Accord\Suppliers\Model\Supplier">
+        <plugin name="accord_update_products" type="Accord\Suppliers\Plugin\Supplier\UpdateProducts" sortOrder="1" disabled="false"/>
+    </type>
+
+    <type name="Accord\Suppliers\Setup\UpgradeData">
+        <arguments>
+            <argument name="items" xsi:type="array">
+                <item name="0.1.2" xsi:type="array">
+                    <item name="UpdateProductAttributes" xsi:type="object">Accord\Suppliers\Setup\UpgradeData\UpdateProductAttributes</item>
+                </item>
+            </argument>
+        </arguments>
+    </type>
+
+    <virtualType name="Accord\Suppliers\Model\ResourceModel\Supplier\Grid\Collection" type="Magento\Framework\View\Element\UiComponent\DataProvider\SearchResult">
+        <arguments>
+            <argument name="mainTable" xsi:type="string">ac_supplier</argument>
+            <argument name="resourceModel" xsi:type="string">Accord\Suppliers\Model\ResourceModel\Supplier\Collection</argument>
+        </arguments>
+    </virtualType>
+
+    <type name="Magento\Framework\View\Element\UiComponent\DataProvider\CollectionFactory">
+        <arguments>
+            <argument name="collections" xsi:type="array">
+                <item name="accord_suppliers_supplier_listing_data_source" xsi:type="string">Accord\Suppliers\Model\ResourceModel\Supplier\Grid\Collection</item>
+            </argument>
+        </arguments>
+    </type>
+
+    <virtualType name="Accord\Suppliers\UiImageUpload" type="Accord\Suppliers\Model\ImageUploader">
+        <arguments>
+            <argument name="baseTmpPath" xsi:type="string">suppliers/tmp</argument>
+            <argument name="basePath" xsi:type="string">suppliers</argument>
+            <argument name="allowedExtensions" xsi:type="array">
+                <item name="jpg" xsi:type="string">jpg</item>
+                <item name="jpeg" xsi:type="string">jpeg</item>
+                <item name="gif" xsi:type="string">gif</item>
+                <item name="png" xsi:type="string">png</item>
+            </argument>
+        </arguments>
+    </virtualType>
+
+    <type name="Accord\Suppliers\Controller\Adminhtml\Index\Upload">
+        <arguments>
+            <argument name="imageUploader" xsi:type="object">Accord\Suppliers\UiImageUpload</argument>
+        </arguments>
+    </type>
+</config>
