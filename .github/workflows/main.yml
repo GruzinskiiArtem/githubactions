@@ -11,6 +11,6 @@ jobs:
     name: A job to say hello
     steps:
       - name: Hello world action step
-        uses: GruzinskiiArtem/githubactions@v34
+        uses: GruzinskiiArtem/githubactions@v35
       - name: Run Unit Tests
-        run: "cd ${{ inputs.magento_root }}/tools/phpunit && ../../vendor/bin/phpunit -c phpunit.xml"
+        run: "cd /magento2/tools/phpunit && ../../vendor/bin/phpunit -c phpunit.xml"
